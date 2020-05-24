@@ -1,4 +1,4 @@
-## Prerequesites
+## Prerequisites
 
 - Hugo
 - Node.js
