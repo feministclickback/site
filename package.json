@@ -1,0 +1,18 @@
+{
+  "name": "hugo-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for building Hugo static website",
+  "main": "index.js",
+  "scripts": {
+    "test": "hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hugo-boilerplate"
+  },
+  "keywords": [
+    "hugo"
+  ],
+  "author": "feministclickback",
+  "license": "ISC"
+}
