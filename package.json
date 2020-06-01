@@ -14,7 +14,7 @@
     "hugo"
   ],
   "author": "feministclickback",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^9.8.0",
     "bootstrap-scss": "^4.5.0",
