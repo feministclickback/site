@@ -1,3 +1,6 @@
+This is a boilerplate for a hugo static site, using gulp as a build tool, Sass
+and PostCSS for CSS processing, and Turretcss as utility library.
+
 ## Prerequisites
 
 - Hugo
