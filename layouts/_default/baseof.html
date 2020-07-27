@@ -10,6 +10,7 @@
 
 </head>
 <body>
+  <p class="siteTitle">{{ .Site.Title }}</p>
   {{ partial "menu.html" . }}
   <main id="content">
     {{- block "main" .}}{{- end}}
