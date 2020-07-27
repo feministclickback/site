@@ -10,8 +10,10 @@
 
 </head>
 <body class="container">
+  <div class="header flex-justify">
   <p class="siteTitle">{{ .Site.Title }}</p>
   {{ partial "menu.html" . }}
+  </div>
   <main id="content">
     {{- block "main" .}}{{- end}}
   </main>
