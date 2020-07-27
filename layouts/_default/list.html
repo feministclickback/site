@@ -8,6 +8,11 @@
         {{.Content}}
     </article>
     <ul>
+    {{ range .Site.Taxonomies.categories }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+    </ul>
+    <ul>
     <!-- Ranges through content/posts/*.md -->
     {{ range .Pages }}
         <li>
