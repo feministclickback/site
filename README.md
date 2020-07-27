@@ -1,5 +1,12 @@
-This is a boilerplate for a hugo static site, using gulp as a build tool, Sass
-and PostCSS for CSS processing, and Turretcss as utility library.
+Here is where the code for the feministclickback.org site will live.
+
+Tech stack:
+- Hugo
+- gulp
+- Sass
+- PostCSS
+- Turretcss
+- Hosted and deployed on Netlify
 
 ## Prerequisites
 
