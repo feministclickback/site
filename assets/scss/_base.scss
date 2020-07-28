@@ -7,3 +7,9 @@ body {
 .posts {
   background-color: rgba(255,255,255,0.6);
 }
+
+@media only screen and (max-width:639px) {
+  body {
+    background-size: contain;
+  }
+}
