@@ -14,6 +14,7 @@
       <h4 id="date"> {{ .Date.Format "01.02.2006" }} </h4>
       <h5 id="wordcount"> {{ .WordCount }} Wörter </h5>
     </section>
+    <p>Kategorien:</p>
     {{ with .Params.categories }}
     <ul id="categories">
       {{ range . }}
