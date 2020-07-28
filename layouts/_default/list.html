@@ -22,6 +22,7 @@
         <li>
             <a href="{{.Permalink}}">{{.Title}}</a>
             <p class="meta"><span class="date color-dark-300">{{.Date.Format "01.02.2006"}}</span><span class="summary">{{ .Page.Summary }}</span></p>
+            <a class="readmore" href="{{ .Permalink }}">Weiterlesen</a>
         </li>
     {{ end }}
     </ul>
