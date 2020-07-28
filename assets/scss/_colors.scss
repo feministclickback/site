@@ -2,6 +2,14 @@
   color: $linkcolor;
 }
 
+.primary {
+  color: $primary;
+}
+
+h1 {
+  @extend .primary;
+}
+
 a {
   @extend .linkcolor;
 }
