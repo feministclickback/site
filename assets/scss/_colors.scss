@@ -1,3 +1,6 @@
+.dark-300 {
+  color: $dark-300;
+}
 .linkcolor {
   color: $linkcolor;
 }
@@ -16,4 +19,7 @@ a {
 
 .border-linkcolor {
   @include bordercolor($linkcolor);
+}
+.border-dark-300 {
+  @include bordercolor($dark-300);
 }
