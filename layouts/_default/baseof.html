@@ -11,7 +11,7 @@
 </head>
 <body class="container">
   <div class="header flex-justify margin-vertical-m">
-  <p class="siteTitle primary">{{ .Site.Title }}</p>
+  <a class="text-decoration-none" href="{{.Site.BaseURL}}"><p class="siteTitle primary">{{ .Site.Title }}</p></a>
   {{ partial "menu.html" . }}
   </div>
   <main id="content">
