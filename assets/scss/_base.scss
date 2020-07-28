@@ -19,6 +19,7 @@ body {
 .main-nav {
   .icon {
   display: none;
+  text-align: right;
   }
 }
 
@@ -37,7 +38,9 @@ body {
       position: relative;
       width: 40%;
       background: $dark-50;
-      padding: 1em;
+      padding: 1.5em;
+      margin-top: -1.5em;
+      margin-right: -1.5em;
       ul {
         li {
           display: block;
@@ -45,8 +48,8 @@ body {
       }
       .icon {
         position: absolute;
-        right: 0;
-        top: 0;
+        right: 1.5em;
+        top: 1.5em;
       }
     }
   }
