@@ -19,7 +19,7 @@
     <div class="posts">
     <ul>
     <!-- Ranges through content/posts/*.md -->
-    {{ range .Pages }}
+    {{ range (.Paginator 1).Pages }}
         <li class="margin-vertical-l">
             <a class="text-decoration-none" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
             <div class="categories">{{ range (.GetTerms "categories") }}<span class="border border-dark-300 color-dark-300 padding-horizontal-xs box-shadow-s">{{ .LinkTitle }}</span>{{ end }}</div>
@@ -27,6 +27,9 @@
         </li>
     {{ end }}
     </ul>
+    </div>
+    <div class="pagination-wrapper group group-m margin-vertical-l">
+    {{ template "_internal/pagination.html" . }}
     </div>
 </main>
 {{ end }}
