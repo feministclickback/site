@@ -13,3 +13,25 @@ body {
     background-size: contain;
   }
 }
+
+// Mobile navigation
+// hide mobile menu toggle on desktop
+.main-nav {
+  .icon {
+  display: none;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .main-nav {
+    ul {
+      li {
+        display: none;
+      }
+    }
+    .icon {
+      float: right;
+      display: block;
+    }
+  }
+}
