@@ -15,13 +15,15 @@
       <h5 id="wordcount"> {{ .WordCount }} Wörter </h5>
     </section>
     <p>Kategorien:</p>
+    <div class="category-list group group-m">
     {{ with .Params.categories }}
     <ul id="categories">
       {{ range . }}
-        <li><a href="/categories/{{ . | urlize}}">{{ . }}</a> </li>
+        <li class="border border-linkcolor linkcolor"><a class="padding-horizontal-xs display-block text-decoration-none" href="/categories/{{ . | urlize}}">{{ . }}</a> </li>
       {{ end }}
     </ul>
     {{ end }}
+    </div>
     </div>
 </aside>
 </div>
