@@ -19,7 +19,7 @@
     {{ with .Params.categories }}
     <ul id="categories">
       {{ range . }}
-        <li class="border border-linkcolor linkcolor"><a class="padding-horizontal-xs display-block text-decoration-none" href="/categories/{{ . | urlize}}">{{ . }}</a> </li>
+        <li class="border border-linkcolor linkcolor box-shadow-s"><a class="padding-horizontal-xs display-block text-decoration-none" href="/categories/{{ . | urlize}}">{{ . }}</a> </li>
       {{ end }}
     </ul>
     {{ end }}

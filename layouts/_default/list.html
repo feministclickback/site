@@ -11,7 +11,7 @@
     <div class="category-list margin-vertical-m group group-m">
     <ul>
     {{ range .Site.Taxonomies.categories }}
-            <li class="border border-linkcolor linkcolor"><a class="padding-horizontal-xs display-block text-decoration-none" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+            <li class="border border-linkcolor linkcolor box-shadow-s"><a class="padding-horizontal-xs display-block text-decoration-none" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
     </div>
@@ -22,7 +22,7 @@
     {{ range .Pages }}
         <li class="margin-vertical-l">
             <a class="text-decoration-none" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
-            <div class="categories">{{ range (.GetTerms "categories") }}<span class="border border-dark-300 color-dark-300 padding-horizontal-xs">{{ .LinkTitle }}</span>{{ end }}</div>
+            <div class="categories">{{ range (.GetTerms "categories") }}<span class="border border-dark-300 color-dark-300 padding-horizontal-xs box-shadow-s">{{ .LinkTitle }}</span>{{ end }}</div>
             <p class="meta"><span class="date color-dark-300">{{.Date.Format "01.02.2006"}}</span><span class="summary">{{ .Page.Summary }}</span><a class="readmore" href="{{ .Permalink }}">Weiterlesen</a></p>
         </li>
     {{ end }}
