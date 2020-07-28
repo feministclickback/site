@@ -10,7 +10,7 @@
     <div class="category-list margin-vertical-m group group-m">
     <ul>
     {{ range .Site.Taxonomies.categories }}
-            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+            <li class="border"><a class="padding-horizontal-xs display-block" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
     </div>
