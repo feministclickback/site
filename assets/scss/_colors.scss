@@ -2,6 +2,10 @@
   color: $linkcolor;
 }
 
+a {
+  @extend .linkcolor;
+}
+
 .border-linkcolor {
   @include bordercolor($linkcolor);
 }
