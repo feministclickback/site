@@ -33,5 +33,12 @@ body {
       float: right;
       display: block;
     }
+    &.responsive {
+      ul {
+        li {
+          display: block;
+        }
+      } 
+    }
   }
 }
