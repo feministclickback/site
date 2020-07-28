@@ -10,7 +10,7 @@
     <div class="posts margin-top-l">
     <ul>
     <!-- Ranges through content/posts/*.md -->
-    {{ range (.Paginator 1).Pages }}
+    {{ range (.Paginator 5).Pages }}
     <li class="margin-vertical-l">
         <a class="text-decoration-none" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
         <div class="categories">{{ range (.GetTerms "categories") }}<span class="border border-dark-300 color-dark-300 padding-horizontal-xs box-shadow-s">{{ .LinkTitle }}</span>{{ end }}</div>
