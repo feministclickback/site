@@ -3,11 +3,14 @@
     list-style: none;
     li {
       .meta {
+        span + span {
+          margin: 0 1rem;
+        }
         .date {
 
         }
         .summary {
-          
+
         }
       }
     }
