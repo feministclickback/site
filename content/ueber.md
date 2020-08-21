@@ -1,13 +1,47 @@
 ---
-title: "Über"
+title: "Über die Initiative"
 date: 2020-05-24T16:32:35+02:00
 draft: false
 menu: main
 weight: 1
 ---
 
-The capitalist state has not been able to keep women from taking on all these duties and efforts of political life. Step by step, the state has indeed been forced to grant and guarantee them this possibility by allowing them union and assembly rights. Only the last political right is denied women: the right to vote, to decide directly on the people’s representatives in legislature and administration, to be an elected member of these bodies. But here, as in all other areas of society, the motto is: “Don’t let things get started!” But things have been started. The present state gave in to the women of the proletariat when it admitted them to public assemblies, to political associations. And the state did not grant this voluntarily, but out of necessity, under the irresistible pressure of the rising working class. It was not least the passionate pushing ahead of the proletarian women themselves which forced the Prusso-German police state to give up the famous “women’s section”[A] in gatherings of political associations and to open wide the doors of political organizations to women. This really set the ball rolling. The irresistible progress of the proletarian class struggle has swept working women right into the whirlpool of political life. Using their right of union and assembly, proletarian women have taken a most active part in parliamentary life and in election campaigns. It is only the inevitable’ consequence, only the logical result of the movement that today millions of proletarian women call defiantly and with self-confidence: Let us have suffrage!
+feministclickback ist eine Initiative, die feministische Aktivist*innen dabei unterstützt, mithilfe von Suchmaschinenoptimierung ein breiteres Publikum zu erreichen.
 
-Rosa Luxemburg
+## Warum Suchmaschinenoptimierung?
+Suchmaschinen sind eine wichtige Informationsquelle, auch zu feministischen Themen. Die Spielregeln, nach denen Webseiten für wichtige Suchbegriffe ganz oben stehen und damit Sichtbarkeit erreichen, sind jedoch nicht für alle transparent und auf keinen Fall sind sie gerecht: Suchmaschinenoptimierung (SEO) kostet Zeit und Geld, und diese Ressourcen sind in unserer Gesellschaft ungleich verteilt. Viele feministische Initiativen haben zwar die Inhalte, aber nicht das Wissen und/oder die Mittel, um ihre Sichtbarkeit in den Suchergebnissen zu erhöhen.
 
-Source: https://www.marxists.org/archive/luxemburg/1912/05/12.htm
+Hinzu kommt, dass der Google-Algorithmus nicht neutral ist und in vielen Fällen gesellschaftliche Diskriminierungs- und Mehrheitsverhältnisse reproduziert und verstärkt.
+
+Deshalb haben wir 2016 feministclickback gegründet.
+
+## Was wir tun
+Für feministische Initiativen bieten wir **Workshops** zu den folgenden Themen an:
+- Wie funktionieren Suchmaschinen?
+- Wie entwickle ich eine SEO-Strategie und setze sie um?
+
+Darüber hinaus halten wir **Vorträge** zu den Themen Feminismus & Google, Diskriminierung durch den Google-Algorithmus, feministische Interventionen, und SEO-Strategien von antifeministischen Akteur*innen.
+
+Auf unserem [Blog](/blog/) sammeln wir Ressourcen und teilen Wissen. Eine Zusammenfassung gibt es in unserer Broschüre feministclickback: Suchmaschinenoptimierung gegen rechts (Link).
+
+Bei Bedarf können wir feministische Initiativen auch individuellen **beraten**. Nehmt dazu gerne [Kontakt]((/kontakt/)) auf.
+
+Unsere Angebote sind kostenlos für Initiativen, die wenig Geld zur Verfügung haben.
+
+
+## Wer steht dahinter?
+
+### Tina Reis
+
+Dass antifeministische Webseiten auf Google einen so großen Erfolg haben, hat mich schon immer gestört und hat dazu geführt, dass ich mich seit 2016 beruflich und aktivistisch mit Suchmaschinenoptimierung beschäftige. Die Initiative feministclickback habe ich im gleichen Jahr gegründet, um auf die Relevanz des Themas aufmerksam zu machen und feministische Webseiten zu unterstützen. Im Rahmen der Initiative kümmere ich mich um die Website und die Workshops.
+
+feministclickback wurde von Beginn an von einem Netzwerk an verschiedenen Menschen getragen, die von der Idee bis zur Umsetzung immer wieder wichtige Impulse gesetzt und mitgearbeitet haben. Ein besonderer Dank geht an dieser Stelle an:
+
+- re:ny für das Layout der Broschüre
+- [Laura Pierson Wadden](https://lpw.io) für die englische Übersetzung der Inhalte und die Unterstützung mit der Programmierung der Website
+- Charlie Kaufhold, Sonja Folsche und Jan Tölva für das Lektorat der Broschüre
+- Lisa Mangold für alle Unterstützung, von Finanzanträgen bis zu Ideen, Motivation, und Vernetzung
+- zahlreichen Mitstreiter*innen für Diskussionen, Impulse, Ideen, und Organisation von Veranstaltungen!
+
+Mit freundlicher Unterstützung des Gunda-Werner-Institutes für Feminismus und Geschlechterdemokratie in der Heinrich-Böll-Stiftung
+![Logo Gunda-Werner-Institut](/images/gunda-werner-institut-logo.jpg#small)
