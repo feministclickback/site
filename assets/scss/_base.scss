@@ -54,3 +54,9 @@ body {
     }
   }
 }
+// Image sizes
+img[src*="#small"]{
+  width: 400px;
+  display: block;
+  padding-top: 1em; 
+}
