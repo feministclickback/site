@@ -14,7 +14,7 @@ Das liegt daran, dass Suchmaschinen einen Katalog besitzen, in dem sie Informati
 
 Suchmaschinen lassen spezielle Programme, sogenannte Bots, permanent das Internet abgrasen. Dieser Prozess nennt sich crawling, vom englischen Verb to crawl (krabbeln oder kriechen). Deshalb werden diese Bots auch manchmal Spider (Spinnen) oder Crawler genannt. Diese Crawler bewegen sich unermüdlich durch das Internet, indem sie Links folgen, die sie von einer URL zur nächsten bringen. Dabei entdecken sie nicht nur neue Webseiten, sondern überprüfen bereits indexierte Seiten auf Änderungen. Somit wird der Index beständig aktuell gehalten.
 
-[Bild: Crawling]
+![Diagramm von Webseiten, die mit Links miteinander verbunden sind](/images/crawling.jpg)
 
 Die Crawler senden Informationen über eine Seite zurück an die Server der Suchmaschine. Um Inhalte und Aufbau zu entschlüsseln, laden Suchmaschinen URLs tatsächlich so, wie ein Browser es tun würde. Nur dass die Auswertung der Seiten bei Suchmaschinen rein maschinell passiert. Die Informationen über einzelne URLs werden im Index gespeichert, und bei einer Suchanfrage in Sekundenschnelle ausgeliefert. (Quelle: [Google](https://www.google.com/search/howsearchworks/crawling-indexing/))
 
