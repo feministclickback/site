@@ -7,7 +7,7 @@ draft: false
 ## <h1>
 wichtigste Überschrift, wie sie in HTML ausgezeichnet wird.
 ## 301 Redirect
-dauerhafte Weiterleitung, die anzeigt, dass sich der Inhalt der alten URL jetzt auf einer neuen URL befindet. Weiterleitungen verhindern, dass Nutzer*innen eine Fehlerseite sehen, und ermöglichen, dass Suchmaschinen die Rankings der alten URL auf die neue übertragen. Eine andere Form der Weiterleitung ist der 302-Redirect, eine vorübergehende Weiterleitung.
+dauerhafte Weiterleitung, die anzeigt, dass sich der Inhalt der alten URL jetzt auf einer neuen URL befindet. Weiterleitungen verhindern, dass Nutzer:innen eine Fehlerseite sehen, und ermöglichen, dass Suchmaschinen die Rankings der alten URL auf die neue übertragen. Eine andere Form der Weiterleitung ist der 302-Redirect, eine vorübergehende Weiterleitung.
 ## 404-Fehlermeldung
 Fehlercode, der vom Server zurückgegeben wird, wenn die aufgerufene Seite nicht verfügbar ist.
 ## ALT-Text
@@ -20,7 +20,7 @@ System, um die Inhalte einer Webseite zu verwalten. Wordpress ist ein bekanntes 
 ## Crawling
 Name des Vorgangs, bei dem sich Webcrawler durch das Internet bewegen und Webseiten auswerten.
 ## Meta-Description
-Beschreibung einer Webseite, die in der Suchergebnisliste angezeigt wird und dazu dient, den Nutzer*innen weitere Informationen über den Inhalt der Seite zu geben.
+Beschreibung einer Webseite, die in der Suchergebnisliste angezeigt wird und dazu dient, den Nutzer:innen weitere Informationen über den Inhalt der Seite zu geben.
 ## Dofollow-Link
 Link, der für eine Suchmaschine als Empfehlung gilt und dementsprechend in die Bewertung der verlinkten Seite eingeht. Alle Links, die nicht explizit anderweitig ausgezeichnet sind, gelten automatisch als dofollow.
 ## Duplicate Content
@@ -51,15 +51,15 @@ siehe Webcrawler
 ## Sprungmarken
 Links, bei denen das Sprungziel auf der gleichen Seite liegt
 ## Suchintention
-Intention, die sich hinter einem Suchbegriff verbirgt, oder anders ausgedrückt: Das, was Nutzer*innen erwarten zu finden, wenn sie einen bestimmten Suchbegriff eingeben.
+Intention, die sich hinter einem Suchbegriff verbirgt, oder anders ausgedrückt: Das, was Nutzer:innen erwarten zu finden, wenn sie einen bestimmten Suchbegriff eingeben.
 Suchmaschinenoptimierung (SEO) Versuch, Webseiten so zu gestalten, dass sie für bestimmte Suchbegriffe in den organischen Suchergebnissen möglichst weit oben erscheinen.
 ## Suchvolumen
 Anzahl der Suchanfragen für einen bestimmten Suchbegriff. Dies gibt Aufschluss darüber, wie häufig ein Begriff gesucht wird. Meistens wird das Suchvolumen in Durchschnittswerten angegeben, wobei basierend auf den Daten von einem Jahr das durchschnittliche monatliche Suchaufkommen errechnet wird.
 ## Title
-Titel einer Webseite, der in der ersten Zeile eines Suchergebnisses angezeigt wird. Der title kann im Quelltext der Seite definiert werden und dient Nutzer*innen dafür, auf einen Blick zu entscheiden, ob die Webseite für sie wahrscheinlich interessant ist oder nicht.
+Titel einer Webseite, der in der ersten Zeile eines Suchergebnisses angezeigt wird. Der title kann im Quelltext der Seite definiert werden und dient Nutzer:innen dafür, auf einen Blick zu entscheiden, ob die Webseite für sie wahrscheinlich interessant ist oder nicht.
 ## URL
 kurz für uniform resource locator. Adresse, um einzelne Webseiten aufrufen zu können. Bestandteil der URL sind immer die Domain (der Name der Webseite) sowie die mit einem / abgetrennte Verzeichnisse und Unterseiten. Eine URL ist per Definition einmalig, es kann nie zweimal die exakt gleiche URL geben.
 ## User-Signale
-bestimmte Messwerte, die von einer Suchmaschine aufgezeichnet und als Maßstab dafür herangezogen werden, wie gut eine Webseite bei den Nutzer*innen ankommt (z.B. die Zeit, die sie auf der Seite verbringen, die Anzahl der Nutzer*innen, die schon nach kurzer Zeit die Seite wieder verlässt, ob sie mit der Seite interagieren etc.).
+bestimmte Messwerte, die von einer Suchmaschine aufgezeichnet und als Maßstab dafür herangezogen werden, wie gut eine Webseite bei den Nutzer:innen ankommt (z.B. die Zeit, die sie auf der Seite verbringen, die Anzahl der Nutzer:innen, die schon nach kurzer Zeit die Seite wieder verlässt, ob sie mit der Seite interagieren etc.).
 ## Webcrawler
 spezielle Computerprogramme, die Webseiten im Internet aufsuchen, indem sie Links folgen und deren Inhalt auswerten.
