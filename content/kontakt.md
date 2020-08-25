@@ -10,5 +10,5 @@ workshops [ät] feministclickback.org
 ## Kontakt und Vernetzung:
 kontakt [ät] feministclickback.org
 
-## Mitstreiter*innen gesucht!
+## Mitstreiter:innen gesucht!
 Wenn du feministisch aktiv bist und dich für das Thema Netzpolitik, SEO und Google interessierst, melde dich gerne unter kontakt  [ät] feministclickback.org.
