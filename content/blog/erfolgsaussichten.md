@@ -4,9 +4,9 @@ date: 2020-08-25T14:41:25+02:00
 draft: false
 categories: ["Anleitungen"]
 ---
-SEO ist kein mechanisches Unterfangen: Es gibt keine geprüfte Methode, die zu 100 Prozent zum Erfolg führt. SEO wirkt oft wie eine Blackbox: Ich gebe eine Menge hinein, aber was “innen” passiert, ist nie ganz klar. Zum einen sind die genauen ‣Ranking-Faktoren nicht transparent. Zum anderen ändern sich die Spielregeln häufig. Google führt in regelmäßigen Abständen [Updates](https://moz.com/google-algorithm-change/) durch, die die Suchergebnisse durcheinander wirbeln können.
+SEO ist kein mechanisches Unterfangen: Es gibt keine geprüfte Methode, die zu 100 Prozent zum Erfolg führt. SEO wirkt oft wie eine Blackbox: Ich gebe eine Menge hinein, aber was “innen” passiert, ist nie ganz klar. Zum einen sind die genauen Ranking-Faktoren nicht transparent. Zum anderen ändern sich die Spielregeln häufig. Google führt in regelmäßigen Abständen [Updates](https://moz.com/google-algorithm-change/) durch, die die Suchergebnisse durcheinander wirbeln können.
 
-Konkurrenz ist ein weiterer wichtiger Faktor: Konkurrieren viele Webseiten um einen Suchbegriff, ist es viel schwieriger, ein gutes Ergebnis zu erzielen (und zu halten). Hart umkämpfte Suchbegriffe sind üblicherweise solche, die ein hohes ‣Suchvolumen haben, d.h. nach denen viele Menschen suchen, und die an bestimmte (kommerzielle) Interessen geknüpft sind, die z.B. für werbefinanzierte Webseiten oder Online-Shops wichtig sind.
+Konkurrenz ist ein weiterer wichtiger Faktor: Konkurrieren viele Webseiten um einen Suchbegriff, ist es viel schwieriger, ein gutes Ergebnis zu erzielen (und zu halten). Hart umkämpfte Suchbegriffe sind üblicherweise solche, die ein hohes Suchvolumen haben, d.h. nach denen viele Menschen suchen, und die an bestimmte (kommerzielle) Interessen geknüpft sind, die z.B. für werbefinanzierte Webseiten oder Online-Shops wichtig sind.
 
 Was am häufigsten gesucht wird, ändert sich auch immer mal wieder. Wenn sich z.B. gesellschaftlich durchsetzen würde, den Begriff „Schwangerschaftsabbruch“ statt „Abtreibung“ zu verwenden, würden auch mehr Leute nach ihm auf Google suchen. Dementsprechend müssten sich in diesem Falle auch die SEO-Maßnahmen anpassen.
 
