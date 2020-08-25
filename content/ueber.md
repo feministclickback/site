@@ -20,7 +20,7 @@ Für feministische Initiativen bieten wir **Workshops** zu den folgenden Themen 
 - Wie funktionieren Suchmaschinen?
 - Wie entwickle ich eine SEO-Strategie und setze sie um?
 
-Darüber hinaus halten wir **Vorträge** zu den Themen Feminismus & Google, Diskriminierung durch den Google-Algorithmus, feministische Interventionen, und SEO-Strategien von antifeministischen Akteur*innen.
+Darüber hinaus halten wir **Vorträge** zu den Themen Feminismus & Google, Diskriminierung durch den Google-Algorithmus, feministische Interventionen, und SEO-Strategien von antifeministischen Akteur:innen.
 
 Auf unserem [Blog](/blog/) sammeln wir Ressourcen und teilen Wissen. Eine Zusammenfassung gibt es in unserer Broschüre feministclickback: Suchmaschinenoptimierung gegen rechts (Link).
 
