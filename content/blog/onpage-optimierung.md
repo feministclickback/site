@@ -43,7 +43,7 @@ Zusätzlicher "Ballast" wie Konjunktionen (und, weil, während, etc.) oder Artik
 ### Meta-Angaben
 Meta-Angaben kommen nicht direkt im Text vor, sondern sind im Quelltext hinterlegt, um Suchmaschinen weitere Informationen über eine Seite zu geben. Dazu gehört der Titel einer Seite und die Meta-Beschreibung. Beide zusammen bilden die Vorschau einer Seite in den Suchergebnissen.
 
-![Screenshot eines Suchergebnisses, um Title und Description zu zeigen](/images/title-description.jpg)
+{{< figure src="/images/title-description.jpg" alt="Screenshot eines Suchergebnisses, um Title und Description zu zeigen" caption="Screenshot von Januar 2017" >}}
 
 - SEO-Titel: Eine möglichst prägnante Beschreibung der Unterseite mit maximal 60 Zeichen. Da der SEO-Titel ein direkter Ranking-Faktor ist, muss hier unbedingt das Keyword auftauchen!
 - Beschreibung: Eine kurze Zusammenfassung der Unterseite mit maximal 160 Zeichen. Die Meta-Beschreibung ist ein indirekter Rankingfaktor: Keywords, die hier vorkommen, werden von Suchmaschinen nicht beim Ranking berücksichtigt. Allerdings erhöht eine gute Meta-Beschreibung die Anzahl der Nutzer:innen, die auf die Seite klicken (Click-through-Rate), was sich wiederum positiv auf das Ranking auswirkt.
