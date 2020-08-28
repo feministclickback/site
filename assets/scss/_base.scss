@@ -64,6 +64,9 @@ body {
   img.logo {
     max-width: 100px;
   }
+  .siteTitle {
+    max-width: 280px;
+  }
 }
 // Image sizes
 img[src*="#small"]{
@@ -81,7 +84,7 @@ figcaption p {
 @media only screen and (min-width: 671px){
   img.logo {
     max-width: 200px;
-  }  
+  }
 }
 
 p.siteTitle {
