@@ -11,7 +11,15 @@
 </head>
 <body class="container">
   <div class="header flex-justify margin-vertical-m">
-  <a class="text-decoration-none" href="{{.Site.BaseURL}}"><p class="siteTitle primary">{{ .Site.Title }}</p></a>
+  <a class="text-decoration-none" href="{{.Site.BaseURL}}">
+    <p class="siteTitle primary">
+      {{ if $.Site.Params.logo }}
+            <img src="{{ $.Site.BaseURL }}{{ $.Site.Params.logo }}" class="logo" alt="{{ $.Site.Title }}">
+      {{ else }}
+      {{ $.Site.Title }}
+      {{ end }}
+    </p>
+  </a>
   {{ partial "menu.html" . }}
   </div>
   <main id="content">
