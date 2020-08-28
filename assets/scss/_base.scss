@@ -1,7 +1,10 @@
 body {
+  min-height: 100%;
   background-image: url("/svgs/background.svg");
-  background-repeat: no-repeat;
+  background-position: top;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .posts, .header, footer, article {
