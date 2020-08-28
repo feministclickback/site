@@ -1,0 +1,25 @@
+.posts {
+  ul {
+    list-style: none;
+    li {
+      .categories {
+        span + span {
+          margin: 0 1rem;
+        }
+      }
+      .meta {
+        margin: 0.6em 0;
+        span + span {
+          margin: 0 1rem;
+        }
+        .date {
+
+        }
+        .summary {
+
+        }
+      }
+    }
+  }
+
+}

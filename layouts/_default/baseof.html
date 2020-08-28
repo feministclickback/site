@@ -9,9 +9,27 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
 
 </head>
-<body>
+<body class="container">
+  <div class="header flex-justify margin-vertical-m">
+  <a class="text-decoration-none" href="{{.Site.BaseURL}}">
+    <p class="siteTitle primary flex align-items-center">
+      {{ if $.Site.Params.logo }}
+            <img src="{{ $.Site.BaseURL }}{{ $.Site.Params.logo }}" class="logo" alt="{{ $.Site.Title }}">
+      {{ else }}
+      {{ $.Site.Title }}
+      {{ end }}
+    <span class="subtitle margin-horizontal-xxs">{{ $.Site.Params.subtitle }}</span>
+    </p>
+  </a>
+  {{ partial "menu.html" . }}
+  </div>
   <main id="content">
     {{- block "main" .}}{{- end}}
   </main>
+<footer>
+  {{ partial "footer.html" . }}
+</footer>
+{{ $js := resources.Get "js/mobile-menu.js" | resources.Minify  }}
+<script type="text/javascript" src="{{ $js.Permalink }}"></script>
 </body>
 </html>

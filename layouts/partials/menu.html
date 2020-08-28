@@ -1,0 +1,14 @@
+<nav id="main-nav" class="main-nav group group-xxl">
+  <ul>
+       {{ $currentPage := . }}
+       {{ range .Site.Menus.main }}
+       <li>
+          <a class="text-decoration-none" href="{{ .URL }}">
+                {{ .Pre }}
+              <span>{{ .Name }}</span>
+          </a>
+       </li>
+        {{ end }}
+  </ul>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><img id="toggle" src="/svgs/menu-toggle.svg" alt="Menü" /></a>
+</nav>

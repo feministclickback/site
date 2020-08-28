@@ -1,0 +1,13 @@
+<nav id="footer-navigation" class="group group-xxl flex justify-content-flex-end">
+  <ul>
+       {{ $currentPage := . }}
+       {{ range .Site.Menus.footer }}
+       <li>
+          <a class="text-decoration-none" href="{{ .URL }}">
+                {{ .Pre }}
+              <span>{{ .Name }}</span>
+          </a>
+       </li>
+        {{ end }}
+  </ul>
+</nav>

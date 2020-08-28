@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Athelas Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Athelas Regular'), url('/fonts/Athelas-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Athelas Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Athelas Italic'), url('/fonts/Athelas-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Athelas Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Athelas Bold'), url('/fonts/Athelas-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Athelas Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Athelas Bold Italic'), url('/fonts/Athelas-BoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Proxima Nova'), url('/fonts/proxima-nova.woff') format('woff');
+}
+
+body {
+  font-family: $serif;
+}
+h1, h2, h3, h4, h5, h6, .header, footer, aside, .categories, .category-list, .date, .readmore {
+  font-family: $sansSerif;
+}

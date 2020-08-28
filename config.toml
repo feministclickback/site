@@ -1,3 +1,7 @@
 baseURL = "/"
-languageCode = "en"
-title = "Hugo boilerplate"
+languageCode = "de"
+title = "feministclickback"
+
+[params]
+logo = "/images/logo.png"
+subtitle = "Suchmaschinenoptimierung für feministische Webseiten"
