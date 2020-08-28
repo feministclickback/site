@@ -33,7 +33,8 @@ Nehmen wir nun an, eine Webseite hat keines dieser Probleme, das heißt alle Unt
 ## Wie muss eine Website aufgebaut sein, damit sie den SEO-Anforderungen entspricht?
 
 1. Die ideale Struktur ist eine Baumstruktur oder Pyramide: Von der Startseite führen Links auf die wichtigsten Unterseiten, und von dort aus führen weitere Links zu den einzelnen Unterthemen (vom Allgemeinen ins Detail):
-![Diagramm einer Baumstruktur](/images/baumstruktur.jpg)
+{{< figure src="/images/baumstruktur.jpg" alt="Diagramm einer Baumstruktur">}}
+
 2. Verlinkt wichtige Seiten häufiger als andere, und zwar nicht im Footer oder in der Navigation, sondern durch Textlinks. Wenn ihr in einem Beiträg ein Thema erwähnt, zu dem es anderswo auf der Webseite einen ausführlicheren Text gibt, verlinkt diesen Text von dort. Dies ist auch für Nutzer:innen nützlich: Sie können so gezielt zu den Themen navigieren, die sie am meisten interessieren, ohne viel suchen zu müssen. Eine einfache Methode, um Abschnitte zu finden, die ein Thema erwähnen, ist eine Google-site:-Suche. Das bedeutet: ihr gebt in Google site:eure-website.de ein, gefolgt von dem Thema, zu dem ihr Erwähnungen finden wollt. Eine Suche nach „site:eure-website.de schwangerschaftsabbruch“ gibt euch eine Übersicht, auf welchen Unterseiten das Keyword Schwangerschaftsabbruch erwähnt wird.
 
 ## Doch Vorsicht:

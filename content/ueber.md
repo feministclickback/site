@@ -6,7 +6,7 @@ menu: main
 weight: 1
 ---
 
-feministclickback ist eine Initiative, die feministische Aktivist*innen dabei unterstützt, mithilfe von Suchmaschinenoptimierung ein breiteres Publikum zu erreichen.
+feministclickback ist eine Initiative, die feministische Aktivist:innen dabei unterstützt, mithilfe von Suchmaschinenoptimierung ein breiteres Publikum zu erreichen.
 
 ## Warum Suchmaschinenoptimierung?
 Suchmaschinen sind eine wichtige Informationsquelle, auch zu feministischen Themen. Die Spielregeln, nach denen Webseiten für wichtige Suchbegriffe ganz oben stehen und damit Sichtbarkeit erreichen, sind jedoch nicht für alle transparent und auf keinen Fall sind sie gerecht: Suchmaschinenoptimierung (SEO) kostet Zeit und Geld, und diese Ressourcen sind in unserer Gesellschaft ungleich verteilt. Viele feministische Initiativen haben zwar die Inhalte, aber nicht das Wissen und/oder die Mittel, um ihre Sichtbarkeit in den Suchergebnissen zu erhöhen.
