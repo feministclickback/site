@@ -69,6 +69,11 @@ img[src*="#small"]{
   padding-top: 1em;
 }
 
+// Captions
+figcaption p {
+  font-size: inherit;
+}
+
 // Header
 img.logo {
   max-width: 200px;
