@@ -25,13 +25,14 @@ body {
 // Mobile navigation
 // hide mobile menu toggle on desktop
 .main-nav {
+  z-index: 1000;
   .icon {
   display: none;
   text-align: right;
   }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 670px) {
   .main-nav {
     ul {
       li {
@@ -43,12 +44,14 @@ body {
       display: block;
     }
     &.responsive {
-      position: relative;
-      width: 40%;
+      position: absolute;
+      background: #fff;
+      width: 100%;
       padding: 1.5em;
-      margin-top: -1.5em;
-      margin-right: -1.5em;
+      top: 0;
+      left: 0;
       border: 1px solid $dark-300;
+      z-index: 1000;
       ul {
         li {
           display: block;
@@ -56,9 +59,18 @@ body {
       }
       .icon {
         position: absolute;
-        right: 1.5em;
+        right: 1em;
         top: 1.5em;
       }
+    }
+  }
+  img.logo {
+    max-width: 100px;
+  }
+  .siteTitle {
+    max-width: 280px;
+    span {
+      font-size: 0.825em;
     }
   }
 }
@@ -75,9 +87,12 @@ figcaption p {
 }
 
 // Header
-img.logo {
-  max-width: 200px;
+@media only screen and (min-width: 671px){
+  img.logo {
+    max-width: 200px;
+  }
 }
+
 p.siteTitle {
   position: absolute;
   top: 0;

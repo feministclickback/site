@@ -10,17 +10,17 @@
 
 </head>
 <body class="container">
-  <div class="header flex-justify margin-vertical-m">
-  <a class="text-decoration-none" href="{{.Site.BaseURL}}">
+  <div class="header flex justify-content-flex-end margin-vertical-m">
     <p class="siteTitle primary flex align-items-center">
-      {{ if $.Site.Params.logo }}
-            <img src="{{ $.Site.BaseURL }}{{ $.Site.Params.logo }}" class="logo" alt="{{ $.Site.Title }}">
-      {{ else }}
-      {{ $.Site.Title }}
-      {{ end }}
-    <span class="subtitle margin-horizontal-xxs">{{ $.Site.Params.subtitle }}</span>
+        <a class="text-decoration-none" href="{{.Site.BaseURL}}">
+          {{ if $.Site.Params.logo }}
+          <img src="{{ $.Site.BaseURL }}{{ $.Site.Params.logo }}" class="logo" alt="{{ $.Site.Title }}">
+          {{ else }}
+          {{ $.Site.Title }}
+          {{ end }}
+        </a>
+        <span class="subtitle margin-horizontal-xxs">{{ $.Site.Params.subtitle }}</span>
     </p>
-  </a>
   {{ partial "menu.html" . }}
   </div>
   <main id="content" class="margin-bottom-l">
