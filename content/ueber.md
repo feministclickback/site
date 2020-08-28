@@ -29,19 +29,14 @@ Bei Bedarf können wir feministische Initiativen auch individuellen **beraten**.
 Unsere Angebote sind kostenlos für Initiativen, die wenig Geld zur Verfügung haben.
 
 
-## Wer steht dahinter?
-
-### Tina Reis
-
-Dass antifeministische Webseiten auf Google einen so großen Erfolg haben, hat mich schon immer gestört und hat dazu geführt, dass ich mich seit 2016 beruflich und aktivistisch mit Suchmaschinenoptimierung beschäftige. Die Initiative feministclickback habe ich im gleichen Jahr gegründet, um auf die Relevanz des Themas aufmerksam zu machen und feministische Webseiten zu unterstützen. Im Rahmen der Initiative kümmere ich mich um die Website und die Workshops.
+## Danksagung
 
 feministclickback wurde von Beginn an von einem Netzwerk an verschiedenen Menschen getragen, die von der Idee bis zur Umsetzung immer wieder wichtige Impulse gesetzt und mitgearbeitet haben. Ein besonderer Dank geht an dieser Stelle an:
 
 - re:ny für das Layout der Broschüre
 - [Laura Pierson Wadden](https://lpw.io) für die englische Übersetzung der Inhalte und die Unterstützung mit der Programmierung der Website
 - Charlie Kaufhold, Sonja Folsche und Jan Tölva für das Lektorat der Broschüre
-- Lisa Mangold für alle Unterstützung, von Finanzanträgen bis zu Ideen, Motivation, und Vernetzung
-- zahlreichen Mitstreiter*innen für Diskussionen, Impulse, Ideen, und Organisation von Veranstaltungen!
+- zahlreichen Mitstreiter:innen für Diskussionen, Impulse, Ideen, und Organisation von Veranstaltungen!
 
 Mit freundlicher Unterstützung des Gunda-Werner-Institutes für Feminismus und Geschlechterdemokratie in der Heinrich-Böll-Stiftung
 ![Logo Gunda-Werner-Institut](/images/gunda-werner-institut-logo.jpg#small)

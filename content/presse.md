@@ -5,8 +5,7 @@ draft: false
 menu: main
 weight: 2
 ---
-
-Nicole Shephard, Gunda-Werner-Institut (2020): SEO als feministische Taktik? Online unter: [https://www.gwi-boell.de/de/2020/01/03/seo-als-feministische-taktik](https://www.gwi-boell.de/de/2020/01/03/seo-als-feministische-taktik)
+Dies ist eine Sammlung von Artikeln, Berichten, Podcasts und Veranstaltungsmitschnitten von und über feministclickback:
 
 Netzpolitik Podcast NPP 176: Auf der Suche nach guten Informationen zum Schwangerschaftsabbruch. Juni 2019. [Online nachhören](https://netzpolitik.org/2019/npp-176-auf-der-suche-nach-guten-informationen-zum-schwangerschaftsabbruch/)
 
