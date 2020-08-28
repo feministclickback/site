@@ -14,6 +14,11 @@ body {
   }
 }
 
+// Content
+#content {
+  margin-top: 15%;
+}
+
 // Mobile navigation
 // hide mobile menu toggle on desktop
 .main-nav {
@@ -58,5 +63,5 @@ body {
 img[src*="#small"]{
   width: 400px;
   display: block;
-  padding-top: 1em; 
+  padding-top: 1em;
 }
