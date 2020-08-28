@@ -31,7 +31,7 @@ body {
   }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 670px) {
   .main-nav {
     ul {
       li {
@@ -61,6 +61,9 @@ body {
       }
     }
   }
+  img.logo {
+    max-width: 100px;
+  }
 }
 // Image sizes
 img[src*="#small"]{
@@ -75,9 +78,12 @@ figcaption p {
 }
 
 // Header
-img.logo {
-  max-width: 200px;
+@media only screen and (min-width: 671px){
+  img.logo {
+    max-width: 200px;
+  }  
 }
+
 p.siteTitle {
   position: absolute;
   top: 0;
