@@ -28,3 +28,10 @@
     font-weight: normal;
     src: local('Proxima Nova'), url('/fonts/proxima-nova.woff') format('woff');
 }
+
+body {
+  font-family: $serif;
+}
+h1, h2, h3, h4, h5, h6, .header, footer, aside, .categories, .category-list, .date, .readmore {
+  font-family: $sansSerif;
+}
