@@ -25,6 +25,7 @@ body {
 // Mobile navigation
 // hide mobile menu toggle on desktop
 .main-nav {
+  z-index: 1000;
   .icon {
   display: none;
   text-align: right;
