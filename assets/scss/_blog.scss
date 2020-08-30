@@ -21,5 +21,14 @@
       }
     }
   }
+}
 
+#content {
+  article {
+    p:first-child,
+    h1 + p {
+        @extend .lead;
+        font-family: $sansSerif;
+      }
+  }
 }
