@@ -29,16 +29,15 @@ h1::after {
 a {
   @extend .linkcolor;
   text-decoration: none;
+  &:hover, &:focus {
+    text-decoration: none;
+    @extend .linkcolor;
+    border-bottom: solid 2.5px $linkcolor;
+  }
 }
 
 article a {
   @extend .textcolor;
-  border-bottom: solid 2.5px $linkcolor;
-}
-
-a:hover, a:focus {
-  text-decoration: none;
-  @extend .linkcolor;
   border-bottom: solid 2.5px $linkcolor;
 }
 
