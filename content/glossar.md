@@ -2,6 +2,7 @@
 title: "Glossar"
 date: 2020-08-25T14:32:12+02:00
 draft: false
+summary: "Kurze Erklärungen der wichtigsten SEO-Begriffe"
 ---
 
 ## <h1>
