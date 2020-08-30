@@ -36,6 +36,12 @@ a {
   }
 }
 
+.siteTitle {
+  a {
+    border-bottom: none;
+  }
+}
+
 article a {
   @extend .textcolor;
   border-bottom: solid 2.5px $linkcolor;
