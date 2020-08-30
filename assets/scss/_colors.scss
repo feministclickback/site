@@ -36,7 +36,7 @@ article a {
   text-decoration: none;
 }
 
-a:hover {
+a:hover, a:focus {
   @extend .linkcolor;
   text-decoration: none;
 }
