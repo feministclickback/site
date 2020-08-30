@@ -3,6 +3,7 @@ title: "Interne Verlinkung"
 date: 2020-08-25T15:05:16+02:00
 draft: false
 categories: ["Anleitungen"]
+summary: "Die interne Verlinkung ist bei den meisten Webseiten die größte SEO-Baustelle. Doch warum interessieren sich Suchmaschinen für interne Links?"
 ---
 Die interne Verlinkung ist bei den meisten Webseiten die größte SEO-Baustelle. Mit interner Verlinkung ist der Aufbau einer Webseite gemeint – wie die einzelnen Unterseiten aufeinander verlinken.
 

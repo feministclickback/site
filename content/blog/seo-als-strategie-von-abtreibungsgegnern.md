@@ -3,6 +3,7 @@ title: "SEO als gezielte Strategie Von Abtreibungsgegner:innen"
 date: 2020-08-27T17:21:48+02:00
 draft: false
 categories: ["Pro Choice"]
+summary: "An Struktur und Aufbau einschlägiger Webseiten von christlich-fundamentalistischen Abtreibungsgegner:innen ist erkennbar, dass sie Suchmaschinenoptimierung (SEO) gezielt betreiben. Was steckt hinter dieser Strategie?"
 ---
 
 An Struktur und Aufbau einschlägiger Webseiten von christlich-fundamentalistischen Abtreibungsgegner:innen ist erkennbar, dass sie Suchmaschinenoptimierung (SEO) gezielt betreiben: Keywords befinden sich in den Überschriften und URLs, die Titel und Meta-Beschreibungen der einzelnen Unterseiten sind suchmaschinenoptimiert. Damit sind sie auch relativ erfolgreich: Für Keywords wie „Abtreibung“ und verwandte Suchanfragen erscheinen Webseiten wie abtreibung.de und profemina.org weit oben. Was steckt hinter der Strategie?

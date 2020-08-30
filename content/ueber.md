@@ -4,6 +4,7 @@ date: 2020-05-24T16:32:35+02:00
 draft: false
 menu: main
 weight: 1
+summary: "Was wir tun und warum"
 ---
 
 feministclickback ist eine Initiative, die feministische Aktivist:innen dabei unterstützt, mithilfe von Suchmaschinenoptimierung ein breiteres Publikum zu erreichen.
