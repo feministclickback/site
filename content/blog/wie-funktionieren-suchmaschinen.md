@@ -3,6 +3,7 @@ title: "Wie funktionieren Suchmaschinen?"
 date: 2020-08-21T17:49:56+02:00
 draft: false
 categories: ["Anleitungen"]
+summary: "Innerhalb von Sekundenbruchteilen spucken Suchmaschinen eine Liste an Hunderttausenden Suchergebnissen aus. Wie können sie das so schnell liefern?"
 ---
 Suchmaschinen sind aus unserem Alltag nicht mehr wegzudenken. Egal, welche Frage ich im Kopf habe – von einem Kochrezept bis zu Hintergrundinformationen zu einer aktuellen gesellschaftlichen Debatte – die Chancen sind groß, dass ich mich an eine der großen Suchmaschinen wende. [Und die meisten nutzen Google.](https://de.statista.com/statistik/daten/studie/222849/umfrage/marktanteile-der-suchmaschinen-weltweit/)
 
