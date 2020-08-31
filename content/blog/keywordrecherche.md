@@ -3,7 +3,7 @@ title: "Keyword-Recherche Schritt für Schritt"
 date: 2020-08-26T11:48:34+02:00
 draft: false
 categories: ["Anleitungen"]
-summary: "Bei der Keyword-Recherche geht es darum, Suchbegriffe zu recherchieren, auf die ihr eure Optimierungen ausrichten wollt. Dieser Text gibt eine detaillierte Anleitung, wie ihr dabei vorgehen könnt."
+description: "Bei der Keyword-Recherche geht es darum, Suchbegriffe zu recherchieren, auf die ihr eure Optimierungen ausrichten wollt. Dieser Text gibt eine detaillierte Anleitung, wie ihr dabei vorgehen könnt."
 ---
 Bei der Keyword-Recherche geht es darum, Suchbegriffe zu recherchieren, auf die ihr eure Optimierungen ausrichten wollt. Am Ende habt ihr idealerweise nicht nur eine Liste mit Keywords vor euch liegen, sondern auch einen konkreten Plan dafür, wie ihr basierend auf diesen Erkenntnissen eure Webseite aufbauen bzw. eure bestehende Webseite überarbeiten könnt. Auch wenn ihr schon wisst, welche Begriffe für euch relevant sind, lohnt eine solche Recherche, weil es immer sein kann, dass es verwandte Begriffe oder auch Synonyme gibt, die ihr bis dahin nicht bedacht habt und die womöglich ein höheres Suchvolumen haben. Außerdem bekommt ihr beim Recherchieren einen besseren Überblick über verwandte Themen und Unteraspekte, die viele Menschen beschäftigen.
 

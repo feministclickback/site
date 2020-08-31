@@ -4,7 +4,7 @@ date: 2020-07-27T13:51:15+02:00
 draft: false
 menu: main
 weight: 2
-summary: "Sammlung von Artikeln, Berichten, Podcasts und Veranstaltungsmitschnitten von und über feministclickback"
+description: "Sammlung von Artikeln, Berichten, Podcasts und Veranstaltungsmitschnitten von und über feministclickback"
 ---
 Dies ist eine Sammlung von Artikeln, Berichten, Podcasts und Veranstaltungsmitschnitten von und über feministclickback:
 
