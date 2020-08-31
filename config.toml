@@ -3,5 +3,5 @@ languageCode = "de"
 title = "feministclickback"
 
 [params]
-logo = "/images/logo.png"
+logo = "images/logo.png"
 subtitle = "Suchmaschinenoptimierung für feministische Webseiten"
