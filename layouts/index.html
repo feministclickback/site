@@ -9,5 +9,15 @@
       <div class="homepage-content">
         {{.Content}}
       </div>
+      <div class="group group-xl">
+        <ul class="">
+        {{ range first 4 (where .Site.Pages ".Section" "blog") }}
+          <li class="max-width-s min-width-s">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <time>{{ .Date.Format "02.01.2006" }}</time>
+          </li>
+        {{ end }}
+        </ul>
+      </div>
     </main>
 {{ end }}
