@@ -8,7 +8,7 @@
   <title>{{ .Title }}</title>
   <meta name="description" content="{{ .Page.Summary }}">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
-
+  {{ template "_internal/opengraph.html" . }}
 </head>
 <body class="container">
   <div class="header flex justify-content-flex-end margin-vertical-m">
