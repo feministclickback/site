@@ -1,5 +1,5 @@
 ---
-title: "SEO als gezielte Strategie Von Abtreibungsgegner:innen"
+title: "SEO als gezielte Strategie von Abtreibungsgegner:innen"
 date: 2020-08-27T17:21:48+02:00
 draft: false
 categories: ["Pro Choice"]
