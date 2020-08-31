@@ -3,6 +3,7 @@ title: "Externe Sigale: Beliebt ist, wer verlinkt wird?"
 date: 2020-08-25T14:47:53+02:00
 draft: false
 categories: ["Anleitungen"]
+description: "Wenn andere Webseiten auf die eigene Webseite verlinken, gilt das für Suchmaschinen als positiver Ranking-Faktor. Dieser Text erklärt den Algorithmus genauer und gibt Tipps."
 ---
 Wenn andere Webseiten auf die eigene Webseite verlinken, gilt das für Suchmaschinen-Algorithmen als positiver Ranking-Faktor. Das gleiche gilt für Social-Media-Shares: je häufiger ein Beitrag geteilt wird, desto besser - aus SEO-Sicht.
 
@@ -10,7 +11,7 @@ In den Augen von Suchmaschinen zählt jedoch nicht jeder Link gleich viel. Googl
 
 Ein Link von Wikipedia, der BBC oder einer anderen etablierten Webseite ist aus der Sicht von Google besser für das Ranking als ein Link von kleineren Blogs oder gar Spam-Seiten. Genauso macht das Link-Umfeld einen Unterschied: die beiden Webseiten, die aufeinander verlinken, kommen idealerweise aus dem gleichen Themenfeld, sind z.B. beides feministische Organisationen.
 
-![Diagramm eines Netzwerks von Links unter thematisch ähnlichen und unterschiedlichen Webseiten](/images/links.jpg)
+{{< figure src="/images/links.jpg" alt="Diagramm eines Netzwerks von Links unter thematisch ähnlichen und unterschiedlichen Webseiten" >}}
 
 Der Hintergrundgedanke hinter beiden Kriterien – Qualität und thematisch sinnvolles Link-Umfeld – ist immer, dass der Algorithmus nur Links berücksichtigen soll, die organisch entstanden sind. Dass Webseiten versuchen, durch das Tauschen oder Kaufen von Links oder sonstige Methoden den Algorithmus zu beeinflussen, um das eigene Ranking zu verbessern, wollen Suchmaschinen auf diese Weise verhindern. Denn dann könnten sie noch weniger als jetzt behaupten, dass ihre Suchergebnisse gut und vertrauenswürdig seien. Der Algorithmus ist darauf ausgelegt, solche Methoden der Manipulation zu erkennen. Webseiten, die solche Tricks anwenden, kann es passieren, dass sie aus den Suchergebnissen herausgefiltert werden.
 
@@ -42,10 +43,10 @@ Ein dofollow-Attribut gibt es nicht – jeder Link ohne nofollow-Attribut ist ei
 
 ## Zwischenfazit
 
-    • Links von anderen Webseiten, insbesondere solche, die Suchmaschinen als „qualitativ hochwertig“ und „vertrauenswürdig“ einstufen, sind ein positiver Ranking-Faktor.
-    • Das gleiche gilt für Social Media-Shares.
-    • Die effektivste Linkbuilding-Methode sind gute Inhalte.
-    • Nofollow-Links tragen das nofollow-Attribut und zählen nicht für das Ranking.
+- Links von anderen Webseiten, insbesondere solche, die Suchmaschinen als „qualitativ hochwertig“ und „vertrauenswürdig“ einstufen, sind ein positiver Ranking-Faktor.
+- Das gleiche gilt für Social Media-Shares.
+- Die effektivste Linkbuilding-Methode sind gute Inhalte.
+- Nofollow-Links tragen das nofollow-Attribut und zählen nicht für das Ranking.
 
 ## Tipps für positive Ranking-Signale durch externe Links
 

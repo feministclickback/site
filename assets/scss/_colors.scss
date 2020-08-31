@@ -9,6 +9,10 @@
   color: $primary;
 }
 
+.textcolor {
+  color: $text;
+}
+
 h1 {
   @extend .primary;
 }
@@ -24,6 +28,23 @@ h1::after {
 
 a {
   @extend .linkcolor;
+  text-decoration: none;
+  &:hover, &:focus {
+    text-decoration: none;
+    @extend .linkcolor;
+    border-bottom: solid 2.5px $linkcolor;
+  }
+}
+
+.siteTitle {
+  a {
+    border-bottom: none;
+  }
+}
+
+article a {
+  @extend .textcolor;
+  border-bottom: solid 2.5px $linkcolor;
 }
 
 .border-linkcolor {
