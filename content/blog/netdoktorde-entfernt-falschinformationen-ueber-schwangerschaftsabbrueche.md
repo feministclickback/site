@@ -4,6 +4,7 @@ date: 2020-09-04T09:14:29+02:00
 draft: false
 categories: ["Pro Choice"]
 description: "Ein Erfolg auf dem Weg, über die Google-Suche verlässliche Informationen über Schwangerschaftsabbrüche zu finden"
+images: ["/images/logo.png"]
 ---
 Am 27.08.2020 [hatten wir darüber berichtet](/blog/seo-als-strategie-von-abtreibungsgegnern/), dass die Webseite [netdoktor.de](https://www.netdoktor.de/schwangerschaft/abtreibung/) Falschinformationen über die Risiken von Schwangerschaftsabbrüchen verbreitet. Sie steht auf Position 1 für den Suchbegriff „Abtreibung“. Nun gibt es gute Nachrichten: Auf unsere Nachfrage hin hat die netdoktor.de-Redaktion den Artikel überarbeitet und die Falschinformationen entfernt.
 
