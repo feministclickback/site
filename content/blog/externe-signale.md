@@ -1,5 +1,5 @@
 ---
-title: "Externe Sigale: Beliebt ist, wer verlinkt wird?"
+title: "Externe Signale: Beliebt ist, wer verlinkt wird?"
 date: 2020-08-25T14:47:53+02:00
 draft: false
 categories: ["Anleitungen"]
