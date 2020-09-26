@@ -11,7 +11,7 @@
   {{ template "_internal/opengraph.html" . }}
 </head>
 <body class="container">
-  <div class="header flex justify-content-flex-end margin-vertical-m">
+  <header class="header flex justify-content-flex-end margin-vertical-m">
     {{ if ne .IsHome true }}
     <p class="siteTitle primary flex align-items-center">
         <a class="text-decoration-none" href="{{.Site.BaseURL}}">
@@ -25,7 +25,7 @@
     </p>
     {{ end }}
   {{ partial "menu.html" . }}
-  </div>
+  </header>
   <main id="content" class="margin-bottom-l">
     {{- block "main" .}}{{- end}}
   </main>
