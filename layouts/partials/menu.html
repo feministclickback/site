@@ -1,5 +1,5 @@
 <nav id="main-nav" class="main-nav group group-xxl">
-  <ul role="menu">
+  <ul role="menu" aria-labelledby="toggle-menu">
        {{ $currentPage := . }}
        {{ range .Site.Menus.main }}
        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active font-weight-extra-bold{{ end }}">
