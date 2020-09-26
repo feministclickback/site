@@ -5,6 +5,7 @@
         </header>
         <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
         {{.Content}}
+    <section>
     <h2>Themen</h2>
     <div class="category-list margin-vertical-m group group-m">
     <ul>
@@ -13,6 +14,8 @@
     {{ end }}
     </ul>
     </div>
+    </section>
+    <section>
     <h2>Alle Beiträge</h2>
     <div class="posts">
     <ul>
@@ -25,7 +28,8 @@
         </li>
     {{ end }}
     </ul>
-    </div>
+    </div>  
+    </section>
     <div class="pagination-wrapper group group-m margin-vertical-l">
     {{ template "_internal/pagination.html" . }}
     </div>
