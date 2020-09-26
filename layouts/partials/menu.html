@@ -2,7 +2,7 @@
   <ul role="menu" aria-labelledby="toggle-menu">
        {{ $currentPage := . }}
        {{ range .Site.Menus.main }}
-       <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active font-weight-extra-bold{{ end }}">
+       <li role="none" class="{{ if $currentPage.IsMenuCurrent "main" . }}active font-weight-extra-bold{{ end }}">
           <a class="text-decoration-none" href="{{ .URL }}">
                 {{ .Pre }}
               <span>{{ .Name }}</span>
