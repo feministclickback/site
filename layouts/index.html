@@ -1,11 +1,11 @@
 {{ define "main" }}
       <header class="homepage-header">
-        <h1>{{ $.Site.Title }}</h1>
+        <h1 id="title">{{ $.Site.Title }}</h1>
         {{ with .Site.Params.subtitle }}
         <h2 class="subtitle">{{.}}</h2>
         {{ end }}
       </header>
-      <section class="homepage-content">
+      <section aria-labelledby="title" class="homepage-content">
         {{.Content}}
       </section>
 {{ end }}
