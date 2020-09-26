@@ -1,4 +1,5 @@
 <nav id="main-nav" class="main-nav group group-xxl">
+  <button href="javascript:void(0);" class="icon" id="toggle-button" onclick="myFunction()" aria-haspopup="menu" aria-expanded="false" tabindex="0"><img id="toggle" src="/svgs/menu-toggle.svg" alt="Menü" /></button>
   <ul role="menu" aria-labelledby="toggle-menu">
        {{ $currentPage := . }}
        {{ range .Site.Menus.main }}
@@ -10,5 +11,4 @@
        </li>
         {{ end }}
   </ul>
-  <button href="javascript:void(0);" class="icon" id="toggle-button" onclick="myFunction()" aria-haspopup="menu" aria-expanded="false"><img id="toggle" src="/svgs/menu-toggle.svg" alt="Menü" /></button>
 </nav>
