@@ -1,7 +1,7 @@
 baseURL = "/"
-languageCode = "de"
 title = "feministclickback"
 
 [params]
 logo = "images/logo.png"
+languageCode = "de"
 subtitle = "Suchmaschinenoptimierung für feministische Webseiten"

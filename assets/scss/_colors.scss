@@ -42,7 +42,7 @@ a {
   }
 }
 
-article a {
+.blog_post a {
   @extend .textcolor;
   border-bottom: solid 2.5px $linkcolor;
 }
