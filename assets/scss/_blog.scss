@@ -25,20 +25,22 @@
 
 #content {
   article {
-    h2 {
-      &::after {
-        content: ' ';
-        background-image: linear-gradient(to left, #ffffff, $linkcolor);
-        height: 0.08em;
-        width: 100%;
-        position: relative;
-        display: inline-block;
+    &.blog_post {
+      h2 {
+        &::after {
+          content: ' ';
+          background-image: linear-gradient(to left, #ffffff, $linkcolor);
+          height: 0.08em;
+          width: 100%;
+          position: relative;
+          display: inline-block;
+        }
       }
-    }
-    p:first-child,
-    h1 + p {
-        @extend .lead;
-        font-family: $sansSerif;
+      p:first-child,
+      h1 + p {
+          @extend .lead;
+          font-family: $sansSerif;
+        }
       }
   }
 }
