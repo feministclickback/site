@@ -1,6 +1,7 @@
 <nav id="main-nav" class="main-nav group group-xxl">
+  <span class="sr-only" id="menu-label">Menü</span>
   <button href="javascript:void(0);" class="icon" id="toggle-button" onclick="myFunction()" aria-haspopup="menu" aria-expanded="false" tabindex="0"><img id="toggle" src="/svgs/menu-toggle.svg" alt="Menü" /></button>
-  <ul role="menu" aria-labelledby="toggle-menu">
+  <ul role="menu" aria-labelledby="menu-label">
        {{ $currentPage := . }}
        {{ range .Site.Menus.main }}
        <li role="none" class="{{ if $currentPage.IsMenuCurrent "main" . }}active font-weight-extra-bold{{ end }}">
