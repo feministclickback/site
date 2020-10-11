@@ -44,3 +44,36 @@
       }
   }
 }
+
+.blog-teaser {
+  margin: 3rem 0;
+  text-align: center; 
+  .blog-teaser-container {
+    display: flex;
+    .post-teaser {
+      width: 30%;
+      margin: 1rem 1.5% 0 0;
+      border: 1px solid $highlight;
+      padding: 1rem;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: -1px 3px 3px -2px $highlight;
+      footer {
+        align-self: flex-end;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .blog-teaser {
+    .blog-teaser-container {
+      flex-wrap: wrap;
+      .post-teaser {
+        width: 100%;
+      }
+    }
+  }
+}

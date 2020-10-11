@@ -1,0 +1,6 @@
+<h2>Die neuesten Blogbeiträge</h2>
+<div class="blog-teaser-container">
+{{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+    {{ .Render "summary" }}
+{{ end }}
+</div>

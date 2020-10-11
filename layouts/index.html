@@ -7,5 +7,9 @@
       </header>
       <section aria-labelledby="title" class="homepage-content">
         {{.Content}}
+      <a href="/ueber/" class="read-more-button">Mehr über die Initiative →</a>
+      </section>
+      <section class="blog-teaser">
+        {{ partial "blog-teaser.html" . }}
       </section>
 {{ end }}
