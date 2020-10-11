@@ -1,0 +1,10 @@
+<article class="post-teaser">
+  <header>
+    <h3><a href='{{ .Permalink }}'> {{ .Title }}</a> </h3>
+    <div class="post-meta">{{ .Date.Format "02.01.2006" }}</div>
+  </header>
+  {{ .Description }}
+  <footer>
+  <a href='{{ .Permalink }}'><nobr>Weiterlesen →</nobr></a>
+  </footer>
+</article>

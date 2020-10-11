@@ -1,1 +1,4 @@
 <h2>Die neuesten Blogbeiträge</h2>
+{{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+    {{ .Render "summary" }}
+{{ end }}
