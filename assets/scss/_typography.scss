@@ -35,3 +35,15 @@ body {
 h1, h2, h3, h4, h5, h6, .header, footer, aside, .categories, .category-list, .date, .readmore {
   font-family: $sansSerif;
 }
+
+@media only screen and (max-width: 767px) {
+h1 {
+    font-size: 1.5rem;
+  }
+#content article.blog_post h1 + p, #content article.blog_post p:first-child, .lead {
+  font-size: 1.125rem;
+}
+h2 {
+  font-size: 1.25rem; 
+}
+}
