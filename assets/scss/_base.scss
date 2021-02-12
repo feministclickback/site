@@ -94,11 +94,7 @@ figcaption p {
   }
 }
 
-p.siteTitle {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
+
 
 // Sidebar
 @media only screen and (max-width: 670px) {
@@ -125,5 +121,5 @@ p.siteTitle {
   text-align: center;
 }
 .homepage-header {
-  text-align: center; 
+  text-align: center;
 }
