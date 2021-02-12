@@ -23,7 +23,7 @@ Für feministische Initiativen bieten wir **Workshops** zu den folgenden Themen 
 
 Darüber hinaus halten wir **Vorträge** zu den Themen Feminismus & Google, Diskriminierung durch den Google-Algorithmus, feministische Interventionen, und SEO-Strategien von antifeministischen Akteur:innen.
 
-Auf unserem [Blog](/blog/) sammeln wir Ressourcen und teilen Wissen. Eine Zusammenfassung gibt es in unserer Broschüre feministclickback: Suchmaschinenoptimierung gegen rechts (Link).
+Auf unserem [Blog](/blog/) sammeln wir Ressourcen und teilen Wissen.
 
 Bei Bedarf können wir feministische Initiativen auch individuellen **beraten**. Nehmt dazu gerne [Kontakt]((/kontakt/)) auf.
 
