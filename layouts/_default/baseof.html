@@ -12,7 +12,7 @@
   <meta name="twitter:image" content="https://feministclickback.org/images/logo-twitter-card.png"/>
 </head>
 <body class="container">
-  <header class="header flex justify-content-space-between margin-vertical-m">
+  <header class="header flex {{ if .IsHome }}justify-content-flex-end {{ else }} justify-content-space-between  {{ end }} margin-vertical-m">
     {{ if ne .IsHome true }}
     <div class="">
     <p class="siteTitle primary font-size-xxl margin-xs no-margin-left">
