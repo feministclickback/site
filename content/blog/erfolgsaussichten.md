@@ -2,7 +2,7 @@
 title: "Und wie sind die Erfolgsaussichten?"
 date: 2020-08-25T14:41:25+02:00
 draft: false
-categories: ["Anleitungen"]
+categories: ["SEO erklärt"]
 description: "Lohnt sich der Aufwand? Dieser Text zeigt, wie eine SEO-Strategie erfolgreich sein kann."
 ---
 SEO ist kein mechanisches Unterfangen: Es gibt keine geprüfte Methode, die zu 100 Prozent zum Erfolg führt. SEO wirkt oft wie eine Blackbox: Ich gebe eine Menge hinein, aber was “innen” passiert, ist nie ganz klar. Zum einen sind die genauen Ranking-Faktoren nicht transparent. Zum anderen ändern sich die Spielregeln häufig. Google führt in regelmäßigen Abständen [Updates](https://moz.com/google-algorithm-change/) durch, die die Suchergebnisse durcheinander wirbeln können.

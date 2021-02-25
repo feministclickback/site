@@ -2,7 +2,7 @@
 title: "Onpage-Optimierung: die richtige Platzierung von Keywords auf einer Seite"
 date: 2020-08-26T11:55:04+02:00
 draft: false
-categories: ["Anleitungen"]
+categories: ["SEO erklärt"]
 description: "Dieser Text erklärt Schritt für Schritt, wie ihr suchmaschinenoptimierte Texte schreibt und in eure Website einpflegt."
 ---
 Ihr habt nun ein Keyword, für das ihr eine URL optimieren wollt. Wie geht ihr nun vor?
