@@ -2,7 +2,7 @@
 title: "Netdoktor.de entfernt Falschinformationen über Schwangerschaftsabbrüche"
 date: 2020-09-04T09:14:29+02:00
 draft: false
-categories: ["Pro Choice","SEO analysiert"]
+categories: ["SEO analysiert"]
 description: "Ein Erfolg auf dem Weg, über die Google-Suche verlässliche Informationen über Schwangerschaftsabbrüche zu finden"
 images: ["/images/logo.png"]
 ---
