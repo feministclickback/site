@@ -24,11 +24,11 @@
         <li class="margin-vertical-l">
             <a class="text-decoration-none" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
             <div class="categories">{{ range (.GetTerms "categories") }}<span class="border border-dark-300 color-dark-300 padding-horizontal-xs box-shadow-s">{{ .LinkTitle }}</span>{{ end }}</div>
-            <p class="meta"><span class="date color-dark-300">{{.Date.Format "01.02.2006"}}</span><span class="summary">{{ .Page.Description }}</span><a class="readmore" href="{{ .Permalink }}">Weiterlesen</a></p>
+            <p class="meta"><span class="date color-dark-300">{{.Date.Format "02.01.2006"}}</span><span class="summary">{{ .Page.Description }}</span><a class="readmore" href="{{ .Permalink }}">Weiterlesen</a></p>
         </li>
     {{ end }}
     </ul>
-    </div>  
+    </div>
     </section>
     <div class="pagination-wrapper group group-m margin-vertical-l">
     {{ template "_internal/pagination.html" . }}
