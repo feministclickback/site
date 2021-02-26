@@ -2,7 +2,7 @@
 title: "Externe Signale: Beliebt ist, wer verlinkt wird?"
 date: 2020-08-25T14:47:53+02:00
 draft: false
-categories: ["Anleitungen"]
+categories: ["SEO erklärt"]
 description: "Wenn andere Webseiten auf die eigene Webseite verlinken, gilt das für Suchmaschinen als positiver Ranking-Faktor. Dieser Text erklärt den Algorithmus genauer und gibt Tipps."
 ---
 Wenn andere Webseiten auf die eigene Webseite verlinken, gilt das für Suchmaschinen-Algorithmen als positiver Ranking-Faktor. Das gleiche gilt für Social-Media-Shares: je häufiger ein Beitrag geteilt wird, desto besser - aus SEO-Sicht.
