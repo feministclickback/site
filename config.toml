@@ -5,3 +5,6 @@ title = "feministclickback"
 logo = "images/logo.png"
 languageCode = "de"
 subtitle = "Suchmaschinenoptimierung für feministische Webseiten"
+
+[permalinks]
+  categories = "/kategorie/:title/"
