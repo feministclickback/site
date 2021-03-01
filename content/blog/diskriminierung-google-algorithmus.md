@@ -3,7 +3,7 @@ title: "Nicht OK, Google: Diskriminierung durch den Google-Algorithmus"
 date: 2021-02-25T17:03:39+01:00
 draft: false
 categories: ["Nicht OK, Google"]
-description: ""
+description: "Verstärkt der Google-Algorithmus Diskriminierung? Wir sagen, ja - und in diesem Beitrag erklären wir, warum."
 ---
 Laut Internet Live Stats finden auf Google 40.000 Suchanfragen pro Sekunde statt. Wem es schwer fällt, sich diese gigantische Zahl vorzustellen, kann auf der Webseite quasi live zusehen, {{< target-blank "wie die Zahl der Suchanfragen im Sekundentakt steigt" "https://www.internetlivestats.com/google-search-statistics/" >}}. In der Zeit, die du brauchst, um diesen Blogbeitrag zu lesen, verstreichen über 17 Millionen Suchanfragen.
 
@@ -76,4 +76,4 @@ Eines ist klar: So, wie der Algorithmus aktuell funktioniert, hat er negative Au
 Das Problem zu beheben ist nicht einfach. {{< target-blank "Safiya Umoja Noble geht davon aus, dass selbst die Google-Ingenieur:innen nicht in der Lage sind, das Problem zu beheben, weil selbst sie den seit 20 Jahren kontinuierlich weiter entwickelten Algorithmus nicht mehr durchschauen." "https://themarkup.org/google-the-giant/2020/07/23/google-advertising-keywords-black-girls" >}}
 Ein erster wichtiger Schritt wäre, die Funktionsweise des Algorithmus für die Öffentlichkeit transparent zu machen. Bisher lässt Google sich nicht in die Karten schauen, wie genau die Suchergebnisse zustande kommen. Und selbst Googles eigene Forscher:innen dürfen nicht unabhängig zu den gesellschaftlichen Auswirkungen von Google-Produkten forschen, {{< target-blank "wie die Kündigung der Wissenschaftlerin Timnit Gebru gezeigt hat" "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382" >}} Dabei sind Transparenz und unabhängige Forschung wichtig, um Lösungen für die komplexen Probleme von algorithmischen Entscheidungen zu finden.
 
-Letztendlich braucht es eine Demokratisierung von Internetkonzernen wie Google. {{< target-blank "Netzpolitik.org hat dazu bereits einige konkrete Vorschläge gemacht." "https://netzpolitik.org/2018/den-datenfischern-die-netze-kappen-ideen-gegen-die-marktmacht-der-plattformen/" >}} Wer einen so großen Einfluss auf die öffentliche Meinungsbildung und den Zugang zu Informationen hat, darf nicht weiter im stillen Kämmerchen sitzen und hinter verschlossenen Türen entscheiden, wer und was digitale Sichtbarkeit bekommt. 
+Letztendlich braucht es eine Demokratisierung von Internetkonzernen wie Google. {{< target-blank "Netzpolitik.org hat dazu bereits einige konkrete Vorschläge gemacht." "https://netzpolitik.org/2018/den-datenfischern-die-netze-kappen-ideen-gegen-die-marktmacht-der-plattformen/" >}} Wer einen so großen Einfluss auf die öffentliche Meinungsbildung und den Zugang zu Informationen hat, darf nicht weiter im stillen Kämmerchen sitzen und hinter verschlossenen Türen entscheiden, wer und was digitale Sichtbarkeit bekommt.
