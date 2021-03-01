@@ -29,6 +29,10 @@
     src: local('Proxima Nova'), url('/fonts/proxima-nova.woff') format('woff');
 }
 
+:root {
+  font-size: 18px;
+}
+
 body {
   font-family: $serif;
 }
@@ -44,6 +48,6 @@ h1 {
   font-size: 1.125rem;
 }
 h2 {
-  font-size: 1.25rem; 
+  font-size: 1.25rem;
 }
 }
