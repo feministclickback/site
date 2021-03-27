@@ -77,7 +77,7 @@ Auch Videos zählen zu multimedialen Inhalten und wirken sich positiv für das R
 - Das Ziel-Keyword wird noch nicht für andere Unterseiten verwendet.
 - Die Suchintention wurde recherchiert und berücksichtigt.
 - Überschrift (H1): enthält das Keyword. Es gibt nur eine H1.
-- Gliederung des Texts in sinnvolle Abschnitte mit Zwischenüberschriften, nach der Hierarchie H2, H3, H3 usw.
+- Gliederung des Texts in sinnvolle Abschnitte mit Zwischenüberschriften, nach der Hierarchie H2, H3, H4 usw.
 - URL: enthält das Keyword und beschreibt den Inhalt des Texts ohne Füllwörter.
 - SEO-Titel: fasst den Inhalt des Texts zusammen und enthält das Keyword.
 - Meta-Beschreibung: gibt weitere Informationen und lädt zum Klicken ein.
