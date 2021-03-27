@@ -20,7 +20,7 @@ Euer Hauptaugenmerk sollte auf den Inhalten liegen, nicht auf der Platzierung vo
 
 Eine häufige Fehlannahme über SEO ist, dass das anvisierte Keyword möglichst oft im Text erwähnt werden muss, um im Suchmaschinenranking weit oben zu erscheinen. Dies ist deshalb falsch, weil Texte so für Nutzer:innen unlesbar werden - und da Suchmaschinen stets messen, wie sich Nutzer:innen auf Webseiten verhalten, sammeln unlesbare Texte negative Daten.
 
-Die Algorithmen von Suchmaschinen sind mittlerweile so ausgefeilt, dass sie "Keyword-Stuffing" - das übermäßige Verwenden eines Keywords auf einer Seite - als eine Form von Überoptimierung erkennen und negativ bewerten. Der Algorithmus interessiert sich nicht (mehr) für die bloße Anzahl, wie oft ein Keyword auf einer Seite genannt wird. Sondern dafür, wir gut der Text zu der Suchintention hinter dem Keyword passt. Deshalb gilt die Devise: Texte, die für Nutzer:innen geschrieben sind, sind auch gut für SEO.
+Die Algorithmen von Suchmaschinen sind mittlerweile so ausgefeilt, dass sie "Keyword-Stuffing" - das übermäßige Verwenden eines Keywords auf einer Seite - als eine Form von Überoptimierung erkennen und negativ bewerten. Der Algorithmus interessiert sich nicht (mehr) für die bloße Anzahl, wie oft ein Keyword auf einer Seite genannt wird. Sondern dafür, wie gut der Text zu der Suchintention hinter dem Keyword passt. Deshalb gilt die Devise: Texte, die für Nutzer:innen geschrieben sind, sind auch gut für SEO.
 
 Dennoch gibt es einige Richtlinien, die dabei helfen, dass Suchmaschinen die Inhalte der Seite besser auswerten können.
 
