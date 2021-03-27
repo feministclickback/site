@@ -42,7 +42,7 @@ Nun könnt ihr die Liste, die ihr als Ergebnis vor euch liegen habt, auswerten. 
 - Welche Themen scheinen die Menschen am meisten zu beschäftigen?
 - Passt die Suchintention hinter den Suchbegriffen zu euren Zielen? (Tipp:
 Die Suchintention könnt ihr ungefähr abschätzen, indem ihr den Begriff über das Tool impersonal.me googelt und euch die Suchergebnisse auf der ersten Seite anschaut.)
-- Würde eine Person, die diesen Begriff googelt, auf eurer Website das finden, was sie sucht? Oder, wenn ihr einen neuen Text schreibt: Passt die Suchintention zu den Inhalten, die ihr anbieten wollt? Wie muss der Text aussehen?
+- Würde eine Person, die diesen Begriff googelt, auf eurer Website das finden, was sie sucht? Oder wenn ihr einen neuen Text schreibt: Passt die Suchintention zu den Inhalten, die ihr anbieten wollt? Wie muss der Text aussehen?
 
 Trefft anhand dieser Überlegungen eine Auswahl an Keywords, auf die ihr optimieren wollt. Beachtet dabei, dass ein niedriges Suchvolumen nicht immer schlecht sein muss. Es sollte zwar nicht so niedrig sein, dass es den Aufwand nicht lohnt; aber solange die Suchintention dahinter gut zu euren Zielen passt, sind auch diese Begriffe sinnvoll.
 
