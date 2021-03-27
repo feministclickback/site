@@ -47,6 +47,7 @@ Die Suchintention könnt ihr ungefähr abschätzen, indem ihr den Begriff über 
 Trefft anhand dieser Überlegungen eine Auswahl an Keywords, auf die ihr optimieren wollt. Beachtet dabei, dass ein niedriges Suchvolumen nicht immer schlecht sein muss. Es sollte zwar nicht so niedrig sein, dass es den Aufwand nicht lohnt; aber solange die Suchintention dahinter gut zu euren Zielen passt, sind auch diese Begriffe sinnvoll.
 
 5. Ordnet die Keywords einzelnen URLs zu
-Nehmt nun die Keywords, die ihr ausgewählt habt, und nehmt sie zur Grundlage für den Aufbau eurer Seite. Jede Suchintention bekommt eine eigene URL.
+
+Die Keywords, die ihr ausgewählt habt, nehmt ihr nun zur Grundlage für den Aufbau eurer Seite. Jede Suchintention bekommt eine eigene URL.
 
 Weiter geht es mit dem Schreiben keywordoptimierter Texte und dem [SEO-gerechten Aufbau von Webseiten](/blog/interne-verlinkung/).
