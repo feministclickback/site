@@ -13,7 +13,7 @@ Stellt zunächst sicher, dass ihr auf eurer Webseite dieses Keyword noch nicht b
 
 Bei SEO-gerechten Texten kommt es darauf an, die Suchintention zu beachten. Wenn Menschen das Keyword in eine Suchmaschine eingeben, was erwarten sie (vermutlich) zu finden? Euer Text sollte eine Antwort auf die Frage geben, die die Person im Kopf hatte, als sie die Suche startete. Deshalb ist der erste Schritt vor dem Schreiben des eigentlichen Textes die Recherche.
 
-Die Suchintention könnt ihr in etwa abschätzen, indem ihr eine anonyme Suche bei Google startet, z.B. mit dem Tool [impersonal.me](https://impersonal.me). Auf diese Weise seht ihr die durchschnittlichen Suchergebnisse, und nicht diejenigen Suchergebnisse, die Google basierend auf eurem bisherigen Suchprofil für euch anpasst. Anhand der Seiten auf der ersten Seite der Suchergebnisse seht ihr ungefähr, welche Art Inhalte ganz oben stehen, und welche Fragen die Texte beantworten.
+Die Suchintention könnt ihr in etwa abschätzen, indem ihr eine anonyme Suche bei Google startet, z.B. mit dem Tool {{< target-blank "impersonal.me" "https://impersonal.me" >}}. Auf diese Weise seht ihr die durchschnittlichen Suchergebnisse, und nicht diejenigen Suchergebnisse, die Google basierend auf eurem bisherigen Suchprofil für euch anpasst. Anhand der Seiten auf der ersten Seite der Suchergebnisse seht ihr ungefähr, welche Art Inhalte ganz oben stehen, und welche Fragen die Texte beantworten.
 
 ## Das Schreiben des Texts
 Euer Hauptaugenmerk sollte auf den Inhalten liegen, nicht auf der Platzierung von Keywords. Dafür verwendet ihr den Großteil eurer Zeit. Erst, wenn ihr zufrieden mit dem Ergebnis seid und zuversichtlich, dass ihr damit die Zielgruppe ansprecht, prüft ihr den Texts nochmal auf Keywords.
@@ -48,7 +48,7 @@ Meta-Angaben kommen nicht direkt im Text vor, sondern sind im Quelltext hinterle
 
 - SEO-Titel: Eine möglichst prägnante Beschreibung der Unterseite mit maximal 60 Zeichen. Da der SEO-Titel ein direkter Ranking-Faktor ist, muss hier unbedingt das Keyword auftauchen!
 - Beschreibung: Eine kurze Zusammenfassung der Unterseite mit maximal 160 Zeichen. Die Meta-Beschreibung ist ein indirekter Rankingfaktor: Keywords, die hier vorkommen, werden von Suchmaschinen nicht beim Ranking berücksichtigt. Allerdings erhöht eine gute Meta-Beschreibung die Anzahl der Nutzer:innen, die auf die Seite klicken (Click-through-Rate), was sich wiederum positiv auf das Ranking auswirkt.
-- Wenn Titel des Beitrages und Meta-Beschreibung länger als 60 bzw. 160 Zeichen sind, muss gekürzt werden – alles was über das Zeichenlimit hinausgeht, wird in der Darstellung abgeschnitten. Es gibt ein [frei verfügbares Tool](https://app.sistrix.com/de/serp-snippet-generator), mit dem die Vorschau getestet werden können.
+- Wenn Titel des Beitrages und Meta-Beschreibung länger als 60 bzw. 160 Zeichen sind, muss gekürzt werden – alles was über das Zeichenlimit hinausgeht, wird in der Darstellung abgeschnitten. Es gibt ein {{< target-blank "frei verfügbares Tool" "https://app.sistrix.com/de/serp-snippet-generator" >}}, mit dem die Vorschau getestet werden können.
 
 ### Was ist mit Bildern?
 Suchmaschinen bewerten Seiten, die multimediale Inhalte wie Bilder und Videos enthalten, höher als Seiten mit reinem Text. Deshalb bietet sich an, an geeigneten Stellen Bilder einzubauen. Jegliche multimedialen Inhalte sollten jedoch einen informativen Wert haben. Rein dekorative Bilder stören den Lesefluss eher.
@@ -66,7 +66,7 @@ Wichtig: Jedes Bild, das informativen Wert hat, braucht einen ALT-Text (Alternat
 
 Entscheidet beim Erstellen des ALT-Textes zunächst: Vermittelt das Bild Informationen, oder ist es rein dekorativ? Wenn letzteres der Fall ist, sollte der ALT-Text leer gelassen werden. Wenn das Bild Informationen vermittelt, schreibt einen kurzen und präzisen ALT-Text und gebt diesen im entsprechenden Backend-Feld eurer Webseite ein. Stellt euch vor, ihr beschreibt das Bild einer Person am Telefon. Relevant sind meist nicht einzelne Details („Eine junge Aktivistin mit dunkelbraunen Haaren und einem blauen T-Shirt sitzt auf dem Boden, neben ihr stehen zwei Polizisten und zerren sie von links und rechts an den Armen...“), sondern die Information, die das Bild vermittelt („Eine Aktivistin wird von Polizisten gewaltsam aus einer Blockade entfernt.“). Was diese Information ist, hängt maßgeblich vom Kontext ab: worum geht es im Text, was soll das Bild illustrieren? Wenn der Text die Methoden beleuchtet, wie die Polizei Blockaden auflöst, ist der Handgriff (von rechts und links an den Armen zerren) durchaus relevant.
 
-[Weitere Infos zu barrierefreien Alternativtexten, Englisch](https://www.w3.org/WAI/tutorials/images/decorative/)
+{{< target-blank "Weitere Infos zu barrierefreien Alternativtexten, Englisch" "https://www.w3.org/WAI/tutorials/images/decorative/" >}}
 
 Idealerweise trägt jedes Bild zusätzlich eine für alle sichtbare Bildunterschrift, bereichert durch den Hinweis, warum dieses Bild an dieser Stelle im Text steht. Oft ist hier auch Platz für Copyright-Angaben.
 
