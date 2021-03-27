@@ -55,7 +55,7 @@ Einige wichtige Dinge gibt es darüber hinaus zu beachten:
 - Suchmaschinen werten in erster Linie aus, was im Text steht. Das ist auch für Bilder und Videos relevant: Sie werden anhand der Alternativtexte, des Dateinahmens und des Texts des umliegenden Texts ausgewertet.
 - Welche Wörter im Text stehen, ist weiterhin relevant, aber wichtiger ist die Suchintention.
 - Schlagwörter in der Überschrift, im Meta-Titel, in Zwischenüberschriften sowie im ersten Satz werden höher gewichtet.
-- Als eine Seite gilt, was eine eigene URL hat. Das bedeutet: liegen Inhalte zur gleichen Suchintention auf verschiedenen URLs, können Suchmaschinen nicht bewerten, welche davon die relevanteste ist. Im Zweifel wirkt sich das negativ auf das Ranking aus.
+- Als eine Seite gilt, was eine eigene URL hat. Das bedeutet: Liegen Inhalte zur gleichen Suchintention auf verschiedenen URLs, können Suchmaschinen nicht bewerten, welche davon die relevanteste ist. Im Zweifel wirkt sich das negativ auf das Ranking aus.
 - Ein weiteres Problem sind Duplikate: Unterschiedliche URLs mit exakt oder fakt exakt dem gleichen Inhalt. Dies passiert zum Beispiel, wenn Inhalte kopiert werden.
 - Dass die Daten, die Suchmaschinen sammeln, und damit die Rankings, an einzelnen URLs hängen, bedeutet auch, dass eine Seite wieder bei Null anfängt, wenn sich ihre URL ändert.
 
