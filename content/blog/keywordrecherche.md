@@ -22,30 +22,32 @@ Nutzt anschließend Keywordrecherche-Tools, um weitere Begriffe zu finden. Begin
 
 Beispiele für kostenlose Tools (ohne Garantie):
 
-- [Answer the Public](http://answerthepublic.com)
+- {{< target-blank "Answer the Public" "http://answerthepublic.com" >}}
 
-- [Keywordtool.io](http://keywordtool.io)
+- {{< target-blank "Keywordtool.io" "http://keywordtool.io" >}}
 
-- [Keyword-tools.org](http://www.keyword-tools.org/recherche/)
+- {{< target-blank "Keyword-tools.org" "http://www.keyword-tools.org/recherche/" >}}
 
 Nehmt zunächst möglich viele der Begriffe in eure Tabelle mit auf, ohne streng auszusortieren. Dieser Schritt folgt später. Ziel ist, ein möglichst gutes Bild vom Suchverhalten in eurem Themenbereich zu bekommen.
 
 4. Bestimmt das Suchvolumen
 
-Ermittelt für alle Keyword-Ideen, die ihr bisher gesammelt habt, das durchschnittliche monatliche Suchvolumen bei Google mithilfe des Google Keyword Planner oder Tools wie [Keyword-tools.org](http://www.keyword-tools.org/recherche/) oder [Searchvolume.io](https://searchvolume.io/). Achtet darauf, dass ihr das richtige Land eingestellt habt. Sammelt die Informationen zum Suchvolumen in eurer Tabelle in einer neuen Spalte.
+Ermittelt für alle Keyword-Ideen, die ihr bisher gesammelt habt, das durchschnittliche monatliche Suchvolumen bei Google mithilfe des Google Keyword Planner oder Tools wie {{< target-blank "Keyword-tools.org" "http://www.keyword-tools.org/recherche/" >}} oder {{< target-blank "Searchvolume.io" "https://searchvolume.io/" >}}. Achtet darauf, dass ihr das richtige Land eingestellt habt. Sammelt die Informationen zum Suchvolumen in eurer Tabelle in einer neuen Spalte.
 
 5. Trefft eine Auswahl
+
 Nun könnt ihr die Liste, die ihr als Ergebnis vor euch liegen habt, auswerten. Stellt euch dabei folgende Fragen:
 
 - Welche Keywords haben das meiste Suchvolumen?
 - Welche Themen scheinen die Menschen am meisten zu beschäftigen?
 - Passt die Suchintention hinter den Suchbegriffen zu euren Zielen? (Tipp:
 Die Suchintention könnt ihr ungefähr abschätzen, indem ihr den Begriff über das Tool impersonal.me googelt und euch die Suchergebnisse auf der ersten Seite anschaut.)
-- Würde eine Person, die diesen Begriff googelt, auf eurer Website das finden, was sie sucht? Oder, wenn ihr einen neuen Text schreibt: Passt die Suchintention zu den Inhalten, die ihr anbieten wollt? Wie muss der Text aussehen?
+- Würde eine Person, die diesen Begriff googelt, auf eurer Website das finden, was sie sucht? Oder wenn ihr einen neuen Text schreibt: Passt die Suchintention zu den Inhalten, die ihr anbieten wollt? Wie muss der Text aussehen?
 
 Trefft anhand dieser Überlegungen eine Auswahl an Keywords, auf die ihr optimieren wollt. Beachtet dabei, dass ein niedriges Suchvolumen nicht immer schlecht sein muss. Es sollte zwar nicht so niedrig sein, dass es den Aufwand nicht lohnt; aber solange die Suchintention dahinter gut zu euren Zielen passt, sind auch diese Begriffe sinnvoll.
 
 5. Ordnet die Keywords einzelnen URLs zu
-Nehmt nun die Keywords, die ihr ausgewählt habt, und nehmt sie zur Grundlage für den Aufbau eurer Seite. Jede Suchintention bekommt eine eigene URL.
+
+Die Keywords, die ihr ausgewählt habt, nehmt ihr nun zur Grundlage für den Aufbau eurer Seite. Jede Suchintention bekommt eine eigene URL.
 
 Weiter geht es mit dem Schreiben keywordoptimierter Texte und dem [SEO-gerechten Aufbau von Webseiten](/blog/interne-verlinkung/).

@@ -35,7 +35,7 @@ Unsere Angebote sind kostenlos für Initiativen, die wenig Geld zur Verfügung h
 feministclickback wurde von Beginn an von einem Netzwerk an verschiedenen Menschen getragen, die von der Idee bis zur Umsetzung immer wieder wichtige Impulse gesetzt und mitgearbeitet haben. Ein besonderer Dank geht an dieser Stelle an:
 
 - re:ny für das Layout der Broschüre
-- [Laura Pierson Wadden](https://lpw.io) für die englische Übersetzung der Inhalte und die Unterstützung mit der Programmierung der Website
+- {{< target-blank "Laura Pierson Wadden" "https://lpw.io" >}} für die englische Übersetzung der Inhalte und die Unterstützung mit der Programmierung der Website
 - Charlie Kaufhold, Sonja Folsche und Jan Tölva für das Lektorat der Broschüre
 - zahlreichen Mitstreiter:innen für Diskussionen, Impulse, Ideen, und Organisation von Veranstaltungen!
 

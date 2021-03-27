@@ -13,4 +13,4 @@ kontakt {a} feministclickback.org
 V.i.S.d.P. Tina Reis
 Adresse siehe oben
 
-This work by feministclickback.org is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work by feministclickback.org is licensed under a {{< target-blank "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" "http://creativecommons.org/licenses/by-nc-sa/4.0/" >}}.

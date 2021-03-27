@@ -5,9 +5,9 @@ draft: false
 categories: ["SEO erklärt"]
 description: "Wenn andere Webseiten auf die eigene Webseite verlinken, gilt das für Suchmaschinen als positiver Ranking-Faktor. Dieser Text erklärt den Algorithmus genauer und gibt Tipps."
 ---
-Wenn andere Webseiten auf die eigene Webseite verlinken, gilt das für Suchmaschinen-Algorithmen als positiver Ranking-Faktor. Das gleiche gilt für Social-Media-Shares: je häufiger ein Beitrag geteilt wird, desto besser - aus SEO-Sicht.
+Wenn andere Webseiten auf die eigene Webseite verlinken, gilt das für Suchmaschinen-Algorithmen als positiver Ranking-Faktor. Das Gleiche gilt für Social-Media-Shares: je häufiger ein Beitrag geteilt wird, desto besser - aus SEO-Sicht.
 
-In den Augen von Suchmaschinen zählt jedoch nicht jeder Link gleich viel. Google bewertet die Qualität und Vertrauenswürdigkeit von Webseiten und bewertet einen Link von Webseiten, die es als "qualitativ hochwertig" und "vertrauenswürdig" einstuft höher. Die Kriterien, nach denen dies definiert wird, sind nicht vollkommen transparent.
+In den Augen von Suchmaschinen zählt jedoch nicht jeder Link gleich viel. Google stuft Webseiten nach ihrer (vermeintlichen) Qualität und Vertrauenswürdigkeit ein und bewertet einen Link von Webseiten, die es als "qualitativ hochwertig" und "vertrauenswürdig" einstuft, höher. Die Kriterien, nach denen dies definiert wird, sind nicht vollkommen transparent.
 
 Ein Link von Wikipedia, der BBC oder einer anderen etablierten Webseite ist aus der Sicht von Google besser für das Ranking als ein Link von kleineren Blogs oder gar Spam-Seiten. Genauso macht das Link-Umfeld einen Unterschied: die beiden Webseiten, die aufeinander verlinken, kommen idealerweise aus dem gleichen Themenfeld, sind z.B. beides feministische Organisationen.
 
