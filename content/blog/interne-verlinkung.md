@@ -46,6 +46,7 @@ Nehmen wir nun an, eine Webseite hat keines dieser Probleme, das heißt alle Unt
 Suchmaschinen nutzen interne Links, um den Aufbau von Webseiten zu verstehen. Die interne Verlinkung gibt Suchmaschinen wichtige Hinweise zum Kontext und Relevanz von Unterseiten. Jede SEO-Strategie sollte damit beginnen, den Aufbau einer Webseite genauer zu prüfen und ggf. anzupassen.
 
 ## Zum Weiterlesen
-https://ahrefs.com/blog/internal-links-for-seo/
-http://infolab.stanford.edu/~backrub/google.html
-https://yoast.com/internal-linking-for-seo-why-and-how/
+
+- {{< target-blank "https://ahrefs.com/blog/internal-links-for-seo/" "https://ahrefs.com/blog/internal-links-for-seo/" >}}
+- {{< target-blank "http://infolab.stanford.edu/~backrub/google.html" "http://infolab.stanford.edu/~backrub/google.html" >}}
+- {{< target-blank "https://yoast.com/internal-linking-for-seo-why-and-how/" "https://yoast.com/internal-linking-for-seo-why-and-how/" >}}
