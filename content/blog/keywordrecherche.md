@@ -22,17 +22,17 @@ Nutzt anschließend Keywordrecherche-Tools, um weitere Begriffe zu finden. Begin
 
 Beispiele für kostenlose Tools (ohne Garantie):
 
-- [Answer the Public](http://answerthepublic.com)
+- {{< target-blank "Answer the Public" "http://answerthepublic.com" >}}
 
-- [Keywordtool.io](http://keywordtool.io)
+- {{< target-blank "Keywordtool.io" "http://keywordtool.io" >}}
 
-- [Keyword-tools.org](http://www.keyword-tools.org/recherche/)
+- {{< target-blank "Keyword-tools.org" "http://www.keyword-tools.org/recherche/" >}}
 
 Nehmt zunächst möglich viele der Begriffe in eure Tabelle mit auf, ohne streng auszusortieren. Dieser Schritt folgt später. Ziel ist, ein möglichst gutes Bild vom Suchverhalten in eurem Themenbereich zu bekommen.
 
 4. Bestimmt das Suchvolumen
 
-Ermittelt für alle Keyword-Ideen, die ihr bisher gesammelt habt, das durchschnittliche monatliche Suchvolumen bei Google mithilfe des Google Keyword Planner oder Tools wie [Keyword-tools.org](http://www.keyword-tools.org/recherche/) oder [Searchvolume.io](https://searchvolume.io/). Achtet darauf, dass ihr das richtige Land eingestellt habt. Sammelt die Informationen zum Suchvolumen in eurer Tabelle in einer neuen Spalte.
+Ermittelt für alle Keyword-Ideen, die ihr bisher gesammelt habt, das durchschnittliche monatliche Suchvolumen bei Google mithilfe des Google Keyword Planner oder Tools wie {{< target-blank "Keyword-tools.org" "http://www.keyword-tools.org/recherche/" >}} oder {{< target-blank "Searchvolume.io" "https://searchvolume.io/" >}}. Achtet darauf, dass ihr das richtige Land eingestellt habt. Sammelt die Informationen zum Suchvolumen in eurer Tabelle in einer neuen Spalte.
 
 5. Trefft eine Auswahl
 
