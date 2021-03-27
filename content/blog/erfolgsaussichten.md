@@ -16,3 +16,5 @@ Die gute Nachricht ist: eine erfolgreiche SEO-Strategie ist möglich. Das beste 
 {{< figure src="/images/200727_serps_feminismus.png" alt="Screenshots der Suchergebnisse zum Suchbegriff Feminismus: listen genderdings.de auf Platz 2" caption="Screenshot von Juli 2020" >}}
 
 Fazit: Es lohnt sich, Geduld zu haben – die guten Rankings von genderdings.de stellten sich erst nach einigen Monaten ein. Mit guten Texten und dem Beachten einiger grundlegender SEO-Prinzipien ist es dann durchaus möglich, auch als neue Website mit SEO erfolgreich zu sein.
+
+Hier geht es weiter, wenn ihr euch daran machen wollt, eure Website zu optimieren: [Einstieg in SEO](/einstieg/)
