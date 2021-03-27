@@ -21,7 +21,7 @@ In diesem Artikel beschäftigen wir uns mit dem zweiten Kriterium – der Crawlb
 Die Crawler von Suchmaschinen folgen Links, um Unterseiten zu finden. Unterseiten müssen also von irgendwo verlinkt sein, um gefunden zu werden. Probleme können zum Beispiel in folgenden Fällen auftauchen:
 
 - Unterseiten sind verwaist, das heißt sie werden auf der Webseite nirgendwo mehr verlinkt und sind damit für Crawler nicht sichtbar. Dies kann zum Beispiel passieren, wenn die Paginierung eines Blogs nicht richtig aufgesetzt ist, und alte Beiträge irgendwann nicht mehr angezeigt werden.
-- Inhalte sind nur über eine interne Suche auffindbar (und Crawler können keine Suche starten, um Inhalte zu finden)
+- Inhalte sind nur über eine interne Suche auffindbar (und Crawler können keine Suche starten, um Inhalte zu finden).
 - Die Links einer Webseite sehen für Nutzer:innen zwar so aus wie Links, aber sie haben nicht die klassische HTML-Struktur (<a href=“….“>), wie sie Suchmaschinen verstehen, sondern nutzen eine andere Technologie wie Javascript. In diesem Fall kommt es auf die konkrete Umsetzung an, ob Suchmaschinen die Links verstehen und ihnen folgen können.
 
 Nehmen wir nun an, eine Webseite hat keines dieser Probleme, das heißt alle Unterseiten sind voll crawlbar. Auch dann gibt es zur internen Verlinkung einiges zu beachten.
