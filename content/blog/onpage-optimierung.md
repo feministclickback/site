@@ -48,7 +48,7 @@ Meta-Angaben kommen nicht direkt im Text vor, sondern sind im Quelltext hinterle
 
 - SEO-Titel: Eine möglichst prägnante Beschreibung der Unterseite mit maximal 60 Zeichen. Da der SEO-Titel ein direkter Ranking-Faktor ist, muss hier unbedingt das Keyword auftauchen!
 - Beschreibung: Eine kurze Zusammenfassung der Unterseite mit maximal 160 Zeichen. Die Meta-Beschreibung ist ein indirekter Rankingfaktor: Keywords, die hier vorkommen, werden von Suchmaschinen nicht beim Ranking berücksichtigt. Allerdings erhöht eine gute Meta-Beschreibung die Anzahl der Nutzer:innen, die auf die Seite klicken (Click-through-Rate), was sich wiederum positiv auf das Ranking auswirkt.
-- Wenn Titel des Beitrages und Meta-Beschreibung länger als 60 bzw. 160 Zeichen sind, muss gekürzt werden – alles was über das Zeichenlimit hinausgeht, wird in der Darstellung abgeschnitten. Es gibt ein {{< target-blank "frei verfügbares Tool" "https://app.sistrix.com/de/serp-snippet-generator" >}}, mit dem die Vorschau getestet werden können.
+- Wenn der Titel des Beitrages und die Meta-Beschreibung länger als 60 bzw. 160 Zeichen sind, muss gekürzt werden – alles was über das Zeichenlimit hinausgeht, wird in der Darstellung abgeschnitten. Es gibt ein {{< target-blank "frei verfügbares Tool" "https://app.sistrix.com/de/serp-snippet-generator" >}}, mit dem die Vorschau getestet werden können.
 
 ### Was ist mit Bildern?
 Suchmaschinen bewerten Seiten, die multimediale Inhalte wie Bilder und Videos enthalten, höher als Seiten mit reinem Text. Deshalb bietet sich an, an geeigneten Stellen Bilder einzubauen. Jegliche multimedialen Inhalte sollten jedoch einen informativen Wert haben. Rein dekorative Bilder stören den Lesefluss eher.
