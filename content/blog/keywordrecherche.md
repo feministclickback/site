@@ -35,6 +35,7 @@ Nehmt zunächst möglich viele der Begriffe in eure Tabelle mit auf, ohne streng
 Ermittelt für alle Keyword-Ideen, die ihr bisher gesammelt habt, das durchschnittliche monatliche Suchvolumen bei Google mithilfe des Google Keyword Planner oder Tools wie [Keyword-tools.org](http://www.keyword-tools.org/recherche/) oder [Searchvolume.io](https://searchvolume.io/). Achtet darauf, dass ihr das richtige Land eingestellt habt. Sammelt die Informationen zum Suchvolumen in eurer Tabelle in einer neuen Spalte.
 
 5. Trefft eine Auswahl
+
 Nun könnt ihr die Liste, die ihr als Ergebnis vor euch liegen habt, auswerten. Stellt euch dabei folgende Fragen:
 
 - Welche Keywords haben das meiste Suchvolumen?
