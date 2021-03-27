@@ -11,7 +11,7 @@ Die interne Verlinkung ist bei den meisten Webseiten die größte SEO-Baustelle.
 
 Suchmaschinen nutzen spezielle Computerprogramme – sogenannte Crawler – um Webseiten zu analysieren und zu entscheiden, welche Unterseiten im Katalog der Suchmaschine (Index) landen und welche nicht. Damit die Indexierung funktioniert, müssen zwei Kriterien gegeben sein:
 
-- die Unterseiten müssen Inhalte haben, die Crawler verstehen können – das bedeutet, sinnvoll aufgebaute Texte mit Keywords.
+- Die Unterseiten müssen Inhalte haben, die Crawler verstehen können – das bedeutet sinnvoll aufgebaute Texte mit Keywords.
 - Crawler müssen alle Unterseiten erreichen können – die Unterseiten müssen crawlbar sein.
 
 In diesem Artikel beschäftigen wir uns mit dem zweiten Kriterium – der Crawlbarkeit.
