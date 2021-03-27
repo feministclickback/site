@@ -59,4 +59,4 @@ Einige wichtige Dinge gibt es darüber hinaus zu beachten:
 - Ein weiteres Problem sind Duplikate: unterschiedliche URLs mit exakt oder fakt exakt dem gleichen Inhalt. Dies passiert zum Beispiel, wenn Inhalte kopiert werden.
 - Dass die Daten, die Suchmaschinen sammeln, und damit die Rankings, an einzelnen URLs hängen, bedeutet auch, dass eine Seite wieder bei Null anfängt, wenn sich ihre URL ändert.
 
-Hier geht es weiter, wenn ihr euch daran machen wollt, eure Website zu optimieren:
+Hier geht es weiter, wenn ihr euch daran machen wollt, eure Website zu optimieren: [Einstieg in SEO](/einstieg/)
