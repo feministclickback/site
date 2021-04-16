@@ -3,7 +3,7 @@ title: "Genderdings: Beispiel einer erfolgreichen SEO-Strategie"
 date: 2021-04-16T10:22:22+02:00
 draft: false
 categories: ["SEO erklärt"]
-description: ""
+description: "Genderdings.de erreichte mit SEO über 400.000 Klicks von Google. Wie das geht erfahrt ihr hier."
 ---
 Zu Beginn von feministclickback war unsere größte Unsicherheit, was wir feministischen Initiativen in unseren Workshops über die Erfolgsaussichten von Suchmaschinenoptimierung (SEO) sagen können. Bei gesellschaftspolitischen Suchbegriffen dominieren oftmals die Webseiten großer Zeitungen und finanzstarker Online-Magazine in den Suchergebnissen. Verglichen mit einem kleinen feministischen Verein verfügen diese natürlich über ein ungleich höheres Marketing-Budget.
 
@@ -13,7 +13,7 @@ Mittlerweile haben wir aus Erfahrung dazu gelernt und können in den Workshops e
 
 Genderdings.de erreicht derzeit auf Google über 400.000 Klicks und 6 Millionen Impressionen pro Jahr:
 
-[Bild sc]
+{{< figure src="/images/opt_genderdings-sc.png" alt="Screenshot aus der Google Search Console, Klicks und Impressionen für Genderdings sind im Diagramm zu sehen, gehen im Zeitverlauf stetig nach oben" title="Screenshot der Google Search Console vom 20.03.2021" >}}
 
 Eine Impression ist, wenn einer Person die Seite in den Suchergebnissen angezeigt wird, unabhängig davon, ob sie darauf klickt oder nicht.
 
@@ -36,7 +36,7 @@ Im Jahr 2017 haben wir für unsere erste feministclickback-Broschüre analysiert
 - Bei Suchbegriffen, zu denen es eine kontroverse gesellschaftliche Debatte gab, wie etwa „Gender Mainstreaming“ oder „Definitionsmacht“, waren antifeministische Webseiten auf der ersten Seite für gewöhnlich stark vertreten.
 - Bei Begriffen, die aus einem antifeministischen, rechten Spektrum kommen, wie z.B. „Genderismus“ oder „Homo Lobby“, dominierten antifeministische Webseiten. Das galt auch für Suchbegriffe, die nicht explizit rechts waren, z.B. „Feminismus Kritik“. Diese Themen hatten feministische Webseiten oftmals nicht im Blick und boten dafür keine Inhalte, sodass Google hier vor allem antifeministische Webseiten anzeigte.
 
-[Bild Feminismus Kritik]
+{{< figure src="/images/opt_feminismus-kritik.png" alt="Screenshot der Google-Suchergebnisse für Suchbegriff Feminismus Kritik" title="Screenshot von September 2017" >}}
 
 ## Welche Vorraussetzungen hatte genderdings.de?
 
@@ -50,11 +50,11 @@ Der erste Schritt auf dem Weg zu einer SEO-Strategie war eine Keywordrecherche. 
 
 Suchbegriffe, die aufgrund eines hohen Suchvolumens vielversprechend wirkten, gaben wir in Google ein. Anhand der Webseiten, die zum damaligen Zeitpunkt in der Google-Suche ganz oben standen, konnten wir die ungefähre Suchintention hinter den Suchbegriffen ermitteln. Gleichzeitig bekamen wir so ein Gefühl für die Konkurrenz: Waren in den Suchergebnissen zum Beispiel vorrangig die Webseiten großer Nachrichtenportale vertreten, wussten wir, dass es schwierig sein würde, mit einem kleinen Blog kurzfristig gute Rankings zu erzielen. Die Suchbegriffe, für die wir uns letztendlich entschieden, sollten eine Mischung sein aus solchen, um die es eine große Konkurrenz gab, und solchen, die einfacher zu erreichen sein würden. (Genderdings.de hat diese Erwartungen letztendlich alle übertroffen und ließ auch große Nachrichtenportale in den Suchergebnissen hinter sich. Doch dazu später mehr.)
 
-[Bild KWR 1]
+{{< figure src="/images/opt_keywordrecherche.png" alt="Screenshot Libre Office-Tabelle, Spalten sind Keyword, Suchvolumen, Suchintention und durch welche Art von Webseiten die Suchergebnisse dominiert sind. In Zeilen befinden sich Beispiele" title="Screenshot aus der Genderdings-Keywordrecherche" >}}
 
 Darüber hinaus suchten wir gezielt nach Suchbegriffen, bei denen  antifeministische Webseiten dominierten, um diesen einen feministischen Gegenstandpunkt entgegen zu stellen.
 
-[Bild KWR 2]
+{{< figure src="/images/opt_keywordrecherche2.png" alt="Screenshot Libre Office-Tabelle, Spalten sind Keyword, Suchvolumen, Suchintention und durch welche Art von Webseiten die Suchergebnisse dominiert sind. In Zeilen stehen Suchbegriffe Genderismus und Geschlechtergerechtigkeit, Tabelle zeigt, dass die Suchergebnisse dafür fast ausschließlich von antifeministischen Webseiten dominiert werden." title="Screenshot aus der Genderdings-Keywordrecherche" >}}
 
 ### Zielgruppenspezifische Texte
 
@@ -64,7 +64,7 @@ Erfolgreich sind die Texte deshalb, weil sie auf die Fragen und Bedürfnisse der
 
 Beim Schreiben der Titel und Meta-Descriptions haben wir ebenfalls versucht, die Fragen der Zielgruppe zu antizipieren. Bei der Seite zu Feminismus (Link: https://genderdings.de/gender-politik/feminismus/ ) zum Beispiel hatten wir die Vermutung, dass diesen Suchbegriff vor allem Menschen googeln, die wenig Vorwissen haben und feministischen Inhalten womöglich skeptisch gegenüber stehen. Deshalb haben wir den folgenden Titel und Meta-Description gewählt:
 
-[Title und Meta Description]
+{{< figure src="/images/191115_genderdings feminismus.png" alt="Screenshot Google-Ergebnis, Titel lautet '4 Dinge, die ihr über Feminismus wissen solltet' und darunter die Meta-Description 'Was bedeutet Feminismus, was sind die Ziele und was haben Männer davon?'." >}}
 
 ### Social-Media-Kampagne
 
@@ -74,11 +74,11 @@ Den Launch der Website begleitete eine Kampagne auf Facebook und Instagram. Goog
 
 Es dauerte circa drei Monate, bis sich das erste gute Ranking einstellte, aber dann ging es schnell:
 
-[Bild Feminismus Serps]
+{{< figure src="/images/opt_feminismus-suchergebnisse.png" alt="Screenshot Google-Suchergebnisse für Feminismus mit Genderdings an zweiter Stelle" title="Screenshot von Januar 2021" >}}
 
-[Bild Genderismus Serps]
+{{< figure src="/images/opt_genderismus-suchergebnisse.png" alt="Screenshot Google-Suchergebnisse für Genderismus mit Genderdings an erster Stelle" title="Screenshot von März 2021: Genderdings.de hat wikiMANNia von Platz 1 verdrängt" >}}
 
-[Bild Frühsexualisierung Serps]
+{{< figure src="/images/opt_fruehsexualisierung-suchergebnisse.png" alt="Screenshot Google-Suchergebnisse für Frühsexualisierung mit Genderdings an erster Stelle" title="Screenshot von März 2021" >}}
 
 ## Fazit
 
