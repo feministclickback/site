@@ -21,7 +21,7 @@ In diesem Beitrag möchten wir genauer erklären, was genau zum Erfolg von gende
 
 ## Worum geht es bei genderdings.de?
 
-Genderdings.de ist im Rahmen des Projekts „Social Media Interventions! – rechtsextremen Geschlechterpolitiken im Netz begegnen“ von Dissens–Institut für Bildung und Forschung e.V. in Berlin (Link: https://www.dissens.de/) entstanden.
+Genderdings.de ist im Rahmen des Projekts „Social Media Interventions! – rechtsextremen Geschlechterpolitiken im Netz begegnen“ von {{< target-blank "Dissens–Institut für Bildung und Forschung e.V." "https://www.dissens.de/" >}} in Berlin entstanden.
 
 Ihr Ausgangspunkt war, dass rechtsextreme und antifeministische Akteur:innen soziale Medien und andere Internetplattformen zunehmend dafür nutzen, Jugendliche für ihre Sache zu mobilisieren. Demgegenüber wollte das Projekt pädagogische Angebote schaffen, die den Jugendlichen eine kritische Auseinandersetzung mit antifeministischen Positionen ermöglicht und diesen alternative, vielfaltsbejahende Deutungen gegenüberstellt.
 
@@ -62,13 +62,13 @@ Die Texte, die das Redaktionsteam für genderdings.de erstellte, tragen entschei
 
 Erfolgreich sind die Texte deshalb, weil sie auf die Fragen und Bedürfnisse der Zielgruppe zugeschnitten sind. Viele machen beim Schreiben den Fehler, dass sie von sich selbst ausgehen und das schreiben, was sie selbst gerne lesen würden oder was sie selbst wichtig finden. Besser wäre jedoch, sich in die Perspektive der Zielgruppe hineinzuversetzen und von diesem Standpunkt aus zu schreiben.
 
-Beim Schreiben der Titel und Meta-Descriptions haben wir ebenfalls versucht, die Fragen der Zielgruppe zu antizipieren. Bei der Seite zu Feminismus (Link: https://genderdings.de/gender-politik/feminismus/ ) zum Beispiel hatten wir die Vermutung, dass diesen Suchbegriff vor allem Menschen googeln, die wenig Vorwissen haben und feministischen Inhalten womöglich skeptisch gegenüber stehen. Deshalb haben wir den folgenden Titel und Meta-Description gewählt:
+Beim Schreiben der Titel und Meta-Descriptions haben wir ebenfalls versucht, die Fragen der Zielgruppe zu antizipieren. Bei der Seite zu {{< target-blank "Feminismus" "https://genderdings.de/gender-politik/feminismus/" >}} zum Beispiel hatten wir die Vermutung, dass diesen Suchbegriff vor allem Menschen googeln, die wenig Vorwissen haben und feministischen Inhalten womöglich skeptisch gegenüber stehen. Deshalb haben wir den folgenden Titel und Meta-Description gewählt:
 
 {{< figure src="/images/191115_genderdings feminismus.png" alt="Screenshot Google-Ergebnis, Titel lautet '4 Dinge, die ihr über Feminismus wissen solltet' und darunter die Meta-Description 'Was bedeutet Feminismus, was sind die Ziele und was haben Männer davon?'." >}}
 
 ### Social-Media-Kampagne
 
-Den Launch der Website begleitete eine Kampagne auf Facebook und Instagram. Google zählt Social-Media-Shares als positive Ranking-Signale – auch dies ist also ein Erfolgsfaktor. (Link: /blog/externe-signale/)
+Den Launch der Website begleitete eine Kampagne auf Facebook und Instagram. Google zählt [Social-Media-Shares als positive Ranking-Signale](/blog/externe-signale/) – auch dies ist also ein Erfolgsfaktor.
 
 ## Das Ergebnis
 
