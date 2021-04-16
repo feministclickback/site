@@ -11,8 +11,8 @@
   {{ template "_internal/opengraph.html" . }}
   <meta name="twitter:image" content="https://feministclickback.org/images/logo-twitter-card.png"/>
 </head>
-<body class="container">
-  <header class="header flex {{ if .IsHome }}justify-content-flex-end {{ else }} justify-content-space-between  {{ end }} margin-vertical-m">
+<body class="">
+  <header class="header flex {{ if .IsHome }}justify-content-flex-end {{ else }} justify-content-space-between  {{ end }} margin-vertical-m padding-horizontal-m">
     {{ if ne .IsHome true }}
     <div class="">
     <p class="siteTitle primary font-size-xxl margin-xs no-margin-left">
@@ -25,10 +25,10 @@
     {{ end }}
   {{ partial "menu.html" . }}
   </header>
-  <main id="content" class="margin-bottom-l">
+  <main id="content" class="margin-bottom-l container">
     {{- block "main" .}}{{- end}}
   </main>
-<footer>
+<footer class="padding-horizontal-m">
   {{ partial "footer.html" . }}
 </footer>
 {{ $js := resources.Get "js/mobile-menu.js" | resources.Minify  }}
