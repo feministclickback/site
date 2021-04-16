@@ -1,7 +1,7 @@
 ---
 title: "Genderdings: Beispiel einer erfolgreichen SEO-Strategie"
 date: 2021-04-16T10:22:22+02:00
-draft: false
+draft: true
 categories: ["SEO erklärt"]
 description: "Genderdings.de erreichte mit SEO über 400.000 Klicks von Google. Wie das geht erfahrt ihr hier."
 ---
