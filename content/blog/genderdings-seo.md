@@ -46,7 +46,7 @@ Genderdings.de hatte eine Projektfinanzierung durch Demokratie Leben. Diese bein
 
 ### Passende Suchbegriffe finden
 
-Der erste Schritt auf dem Weg zu einer SEO-Strategie war eine Keywordrecherche. Sie hatte zum Ziel, Suchbegriffe zu finden, für die sich eine Optimierung lohnte. Dazu erstellten wir eine Liste an möglichen Suchbegriffen mit dem dazugehörigen Suchvolumen. Die Begriffe fanden wir durch spezielle Keywordrecherche-Tools.
+Der erste Schritt auf dem Weg zu einer SEO-Strategie war eine [Keywordrecherche](/blog/keywordrecherche/). Sie hatte zum Ziel, Suchbegriffe zu finden, für die sich eine Optimierung lohnte. Dazu erstellten wir eine Liste an möglichen Suchbegriffen mit dem dazugehörigen Suchvolumen. Die Begriffe fanden wir durch spezielle Keywordrecherche-Tools.
 
 Suchbegriffe, die aufgrund eines hohen Suchvolumens vielversprechend wirkten, gaben wir in Google ein. Anhand der Webseiten, die zum damaligen Zeitpunkt in der Google-Suche ganz oben standen, konnten wir die ungefähre Suchintention hinter den Suchbegriffen ermitteln. Gleichzeitig bekamen wir so ein Gefühl für die Konkurrenz: Waren in den Suchergebnissen zum Beispiel vorrangig die Webseiten großer Nachrichtenportale vertreten, wussten wir, dass es schwierig sein würde, mit einem kleinen Blog kurzfristig gute Rankings zu erzielen. Die Suchbegriffe, für die wir uns letztendlich entschieden, sollten eine Mischung sein aus solchen, um die es eine große Konkurrenz gab, und solchen, die einfacher zu erreichen sein würden. (Genderdings.de hat diese Erwartungen letztendlich alle übertroffen und ließ auch große Nachrichtenportale in den Suchergebnissen hinter sich. Doch dazu später mehr.)
 
