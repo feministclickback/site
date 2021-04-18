@@ -29,11 +29,11 @@ Dazu ein Beispiel: Nach der Kölner Silvesternacht 2015 spiegelte sich die (rass
 
 Diese Daten fließen in den Suchalgorithmus ein und beeinflussen diesen – zum Teil noch Jahre später. 2018, also drei Jahre nach den Ereignissen in Köln, schlug Google-Autocomplete den Begriff “Flüchtlinge Kriminalität” vor, nachdem nur das Wort “Flüchtlinge” getippt wurde:
 
-{{< figure src="/images/fluechtlinge-autocomplete.png" title="Screenshot von April 2019" alt="Google-Screenshot: Wort Flüchtlinge ist eingetippt, Autocomplete schlägt als Vorschlag 'Flüchtlinge Kriminalität' vor">}}
+{{< figure src="/images/fluechtlinge-autocomplete.png" title="Screenshot von August 2018" alt="Google-Screenshot: Wort Flüchtlinge ist eingetippt, Autocomplete schlägt als Vorschlag 'Flüchtlinge Kriminalität' vor">}}
 
 Wer bis mindestens August 2019 diesen Begriff googelte, landete auf dem ersten Platz bei einer rechtsextremen Webseite (Quelle: kwfinder.com, Abruf am 25.02.2021).
 
-{{< figure src="/images/serps-fluechtlinge_aug 18.png" title="Screenshot vom August 2018" alt="Google-Screenshot: Suchergebnisse für Suche nach 'Flüchtlinge Kriminalität', erstes Ergebnis ist politikversagen.net">}}
+{{< figure src="/images/serps-fluechtlinge_aug 18.png" title="Screenshot vom April 2019" alt="Google-Screenshot: Suchergebnisse für Suche nach 'Flüchtlinge Kriminalität', erstes Ergebnis ist politikversagen.net">}}
 
 Damit bestätigt diese Google-Suche die rassistische Vorannahme, die im Suchbegriff schon angelegt wird. Wer nach “Flüchtlinge Kriminalität” sucht, ist zumindest schon mit der dahinterstehenden, rassistischen Hypothese in Berührung gekommen und davon beeinflusst, auch wenn die Person sich ihrer Haltung eventuell noch nicht sicher ist. Die Google-Suche bestätigt somit rassistische Vorannahmen und bestärkt sie. Und wer schon ein gefestigtes rassistisches Weltbild hat, der kann sich in seinen Ansichten durch Google-Suchen bekräftigen lassen und Anschluss zu rechten Netzwerken finden.
 

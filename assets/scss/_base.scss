@@ -83,8 +83,9 @@ img[src*="#small"]{
 }
 
 // Captions
-figcaption p {
-  font-size: inherit;
+figcaption h4 {
+  font-size: initial;
+  font-weight: initial;
 }
 
 // Header
