@@ -7,7 +7,7 @@ menu: main
 ---
 Wir bieten circa alle zwei Monate kostenfreie Workshops an, um euch zu unterstützen, SEO zu verstehen und die ersten Schritte umzusetzen. 
 
-**Nächster Termin**: 18.06.2021 von 15-17 Uhr
+**Nächster Termin**: aktuell Sommerpause! Der nächste Workshop findet am 27.08.2021 statt. Anmeldung ist ab jetzt offen.
 
 ## Für wen sind die Workshops gedacht?
 Die Workshops richten sich an feministische Aktivist:innen, die eine aktivistische Website haben (oder planen) und SEO dafür anwenden wollen. Das Angebot ist **kostenfrei** und gedacht für Aktive in kleinen Initiativen, die keine oder wenig finanziellen Mittel haben. **Vorkenntnisse** sind nicht erforderlich.
