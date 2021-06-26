@@ -23,7 +23,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5",
     "node-sass": "^4.14.1",
-    "postcss": "^8.0.9"
+    "postcss": "^8.2.10"
   },
   "dependencies": {
     "turretcss": "^5.2.2"
