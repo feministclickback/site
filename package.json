@@ -28,7 +28,7 @@
     "normalize-url": ">=4.5.1",
     "postcss": "^8.2.10",
     "trim-newlines": ">=3.0.1",
-    "yargs-parser": ">=5.0.0-security.0"
+    "yargs-parser": ">=5.0.1"
   },
   "dependencies": {
     "turretcss": "^5.2.2"
