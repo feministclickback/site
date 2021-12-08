@@ -5,14 +5,19 @@ draft: false
 description: "Hier findet ihr Infos zu unseren Workshops"
 menu: main
 ---
-Wir bieten circa alle zwei Monate kostenfreie Workshops an, um euch zu unterstützen, SEO zu verstehen und die ersten Schritte umzusetzen. 
+Wir unterstützen feministische Initiativen bei der praktischen Umsetzung von SEO. Dazu bieten wir an: 
 
-**Nächster Termin**: 14.01.2022 von 15-17 Uhr
+- ein **Online-Workshop** (circa alle 2 Monate): hier lernt ihr die Basics und könnt die ersten Schritte selbstständig umsetzen. 
+- eine **SEO-Sprechstunde** (einmal im Monat): alle, die an einem Workshop teilgenommen haben und jetzt mitten in der Umsetzung stecken, können mit ihren Fragen in die monatliche SEO-Sprechstunde kommen, wo wir individuell beraten.
 
-## Für wen sind die Workshops gedacht?
-Die Workshops richten sich an feministische Aktivist:innen, die eine aktivistische Website haben (oder planen) und SEO dafür anwenden wollen. Das Angebot ist **kostenfrei** und gedacht für Aktive in kleinen Initiativen, die keine oder wenig finanziellen Mittel haben. **Vorkenntnisse** sind nicht erforderlich.
+**Nächster Termin für den Online-Workshop**: 14.01.2022 von 15-17 Uhr
 
-## Inhalte 
+Den Termin und Video-Link für die regelmäßige Sprechstunde bekommt ihr nach dem Workshop per E-Mail.
+
+## Für wen ist der Workshop gedacht?
+Die Workshops richten sich an Aktivist:innen mit einer feministischen, nicht-kommerziellen Website. Das Angebot ist **kostenfrei** und gedacht für Aktive in kleinen Initiativen, die keine oder wenig finanziellen Mittel haben. **Vorkenntnisse** sind nicht erforderlich.
+
+## Inhalte des Workshops
 - Wie funktioniert eigentlich der Google-Algorithmus?
 - Was sind die wichtigsten Dinge, die ich bei meiner Website beachten sollte?
 - In welchem politischen Kontext bewegen wir uns mit SEO, sprich: Welche Strategien können aus einer feministischen Perspektive Sinn machen?
@@ -28,4 +33,4 @@ Schickt uns einfach eine Mail an workshops(ät)feministclickback.org
 Wir schicken euch danach alle weiteren Infos und eine Bestätigung.
 
 ## Datenschutz
-Wir verwenden deine Daten, um die Workshops durchzuführen und dir hinterher eine Zusammenfassung per Mail zu schicken, oder um dich auf die Warteliste zu setzen und dich über neue Termine zu informieren. Danach löschen wir deine Mailadresse wieder, es sei denn, wir stehen noch anderweitig in Kontakt oder du hast eingewilligt. Du kannst uns jederzeit schreiben, wenn du willst, dass deine Daten schon vorher gelöscht werden oder du Fragen hast. 
+Wir verwenden deine Daten, um die Workshops durchzuführen und dir hinterher eine Zusammenfassung per Mail zu schicken. Danach löschen wir deine Mailadresse wieder, es sei denn, wir stehen noch anderweitig in Kontakt oder du hast eingewilligt. Du kannst uns jederzeit schreiben, wenn du willst, dass deine Daten schon vorher gelöscht werden oder du Fragen hast. 
