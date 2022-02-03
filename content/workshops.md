@@ -10,7 +10,7 @@ Wir unterstützen feministische Initiativen bei der praktischen Umsetzung von SE
 - ein **Online-Workshop** (circa alle 2 Monate): Hier lernt ihr die Basics und könnt die ersten Schritte selbstständig umsetzen. 
 - eine **SEO-Sprechstunde** (einmal im Monat): Alle, die an einem Workshop teilgenommen haben und jetzt mitten in der Umsetzung stecken, können mit ihren Fragen in die monatliche SEO-Sprechstunde kommen, wo wir individuell beraten.
 
-**Nächster Termin für den Online-Workshop**: 14.01.2022 von 15-17 Uhr
+**Nächster Termin für den Online-Workshop**: 18.03.2022 von 15-17 Uhr
 
 Den Termin und Video-Link für die regelmäßige Sprechstunde bekommt ihr nach dem Workshop per E-Mail.
 
