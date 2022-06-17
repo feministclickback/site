@@ -5,14 +5,13 @@ draft: false
 description: "Hier findet ihr Infos zu unseren Workshops"
 menu: main
 ---
+
+Aktuell machen wir mit den Workshops eine **Sommerpause**! Wir sehen uns ab September wieder, wir kündigen neue Termine dann hier an.
+
 Wir unterstützen feministische Initiativen bei der praktischen Umsetzung von SEO. Dazu bieten wir an: 
 
-- ein **Online-Workshop** (circa alle 2 Monate): Hier lernt ihr die Basics und könnt die ersten Schritte selbstständig umsetzen. 
-- eine **SEO-Sprechstunde** (einmal im Monat): Alle, die an einem Workshop teilgenommen haben und jetzt mitten in der Umsetzung stecken, können mit ihren Fragen in die monatliche SEO-Sprechstunde kommen, wo wir individuell beraten.
+- einen **Online-Workshop** (circa alle 2 Monate): Hier lernt ihr die Basics und könnt die ersten Schritte selbstständig umsetzen. 
 
-**Nächster Termin für den Online-Workshop**: 02.06.2022 von 15-17 Uhr
-
-Den Termin und Video-Link für die regelmäßige Sprechstunde bekommt ihr nach dem Workshop per E-Mail.
 
 ## Für wen ist der Workshop gedacht?
 Die Workshops richten sich an Aktivist:innen mit einer feministischen, nicht-kommerziellen Website. Das Angebot ist **kostenfrei** und gedacht für Aktive in kleinen Initiativen, die keine oder wenig finanziellen Mittel haben. **Vorkenntnisse** sind nicht erforderlich.
